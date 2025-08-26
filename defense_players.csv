@@ -1,0 +1,876 @@
+League,Team,Player,Nation,Age,MatchesPlayed,MinutesPlayed,TklW,Tkl%,Blocks,BlockPasses,Interception
+ENG-Premier League,Arsenal,Gabriel Magalhães,BRA,27-151,28,2363,15,75.0,42,13,16.0
+ENG-Premier League,Arsenal,Jakub Kiwior,POL,25-093,16,1032,8,78.6,11,4,6.0
+ENG-Premier League,Arsenal,Jurriën Timber,NED,23-336,30,2417,38,66.7,19,15,22.0
+ENG-Premier League,Arsenal,Myles Lewis-Skelly,ENG,18-235,22,1348,14,90.9,3,2,7.0
+ENG-Premier League,Arsenal,Riccardo Calafiori,ITA,23-000,19,983,19,62.1,12,6,9.0
+ENG-Premier League,Arsenal,William Saliba,FRA,24-056,35,3039,37,75.0,25,10,21.0
+ENG-Premier League,Aston Villa,Axel Disasi,FRA,27-069,7,490,5,42.9,4,3,5.0
+ENG-Premier League,Aston Villa,Axel Disasi,FRA,27-069,6,364,5,42.9,4,3,5.0
+ENG-Premier League,Aston Villa,Diego Carlos,BRA,32-065,10,830,3,66.7,13,6,5.0
+ENG-Premier League,Aston Villa,Ezri Konsa,ENG,27-208,33,2846,18,80.0,18,8,22.0
+ENG-Premier League,Aston Villa,Ian Maatsen,NED,23-070,28,1049,17,70.8,13,13,15.0
+ENG-Premier League,Aston Villa,Kosta Nedeljković,SRB,19-154,5,126,5,66.7,1,1,0.0
+ENG-Premier League,Aston Villa,Kosta Nedeljković,SRB,19-154,10,479,5,66.7,1,1,0.0
+ENG-Premier League,Aston Villa,Lucas Digne,FRA,31-303,32,2351,38,66.7,23,19,25.0
+ENG-Premier League,Aston Villa,Matty Cash,POL,27-285,26,1980,30,69.2,21,13,22.0
+ENG-Premier League,Aston Villa,Pau Torres,ESP,28-123,23,1930,15,58.8,14,4,9.0
+ENG-Premier League,Aston Villa,Tyrone Mings,ENG,32-067,14,1120,6,100.0,13,2,7.0
+ENG-Premier League,Bournemouth,Adam Smith,ENG,34-020,23,1478,10,48.0,12,7,14.0
+ENG-Premier League,Bournemouth,Dean Huijsen,ESP,20-035,30,2324,26,64.3,36,8,50.0
+ENG-Premier League,Bournemouth,Illia Zabarnyi,UKR,22-260,34,2929,33,68.1,33,13,39.0
+ENG-Premier League,Bournemouth,James Hill,ENG,23-129,10,448,8,27.3,5,5,9.0
+ENG-Premier League,Bournemouth,Julian Araujo,MEX,23-279,11,429,3,41.7,3,3,6.0
+ENG-Premier League,Bournemouth,Marcos Senesi,ARG,28-009,16,1029,21,46.7,15,8,11.0
+ENG-Premier League,Bournemouth,Max Aarons,ENG,25-135,3,86,2,100.0,3,2,1.0
+ENG-Premier League,Bournemouth,Max Aarons,ENG,25-135,4,120,2,100.0,3,2,1.0
+ENG-Premier League,Bournemouth,Milos Kerkez,HUN,21-193,36,3164,26,63.2,36,25,44.0
+ENG-Premier League,Brentford,Ben Mee,ENG,35-240,7,183,2,100.0,3,0,4.0
+ENG-Premier League,Brentford,Ethan Pinnock,JAM,31-355,22,1913,19,54.2,29,11,24.0
+ENG-Premier League,Brentford,Kristoffer Ajer,NOR,27-032,23,1433,18,51.9,17,13,12.0
+ENG-Premier League,Brentford,Mads Roerslev,DEN,25-329,19,1101,8,39.3,12,7,4.0
+ENG-Premier League,Brentford,Mads Roerslev,DEN,25-329,7,298,8,39.3,12,7,4.0
+ENG-Premier League,Brentford,Michael Kayode,ITA,20-313,11,443,10,69.2,3,3,5.0
+ENG-Premier League,Brentford,Michael Kayode,ITA,20-313,5,127,10,69.2,3,3,5.0
+ENG-Premier League,Brentford,Nathan Collins,IRL,24-019,37,3330,23,62.9,76,20,34.0
+ENG-Premier League,Brentford,Rico Henry,ENG,27-315,5,99,2,0.0,4,3,1.0
+ENG-Premier League,Brentford,Sepp van den Berg,NED,23-150,30,2496,23,66.7,51,14,21.0
+ENG-Premier League,Brighton,Adam Webster,ENG,30-135,12,707,6,41.7,12,3,18.0
+ENG-Premier League,Brighton,Eiran Cashin,IRL,23-191,2,20,0,0.0,0,0,0.0
+ENG-Premier League,Brighton,Igor,BRA,27-101,12,903,4,40.0,23,9,4.0
+ENG-Premier League,Brighton,Jan Paul van Hecke,NED,24-345,32,2778,27,53.8,33,14,23.0
+ENG-Premier League,Brighton,Joël Veltman,NED,33-124,20,1665,28,58.8,22,15,18.0
+ENG-Premier League,Brighton,Lewis Dunk,ENG,33-179,25,2083,10,57.9,28,10,13.0
+ENG-Premier League,Brighton,Pervis Estupiñán,ECU,27-118,29,2312,40,68.1,17,14,36.0
+ENG-Premier League,Brighton,Tariq Lamptey,GHA,24-231,15,860,11,36.0,15,8,7.0
+ENG-Premier League,Chelsea,Axel Disasi,FRA,27-069,7,490,4,54.5,4,3,2.0
+ENG-Premier League,Chelsea,Axel Disasi,FRA,27-069,6,364,4,54.5,4,3,2.0
+ENG-Premier League,Chelsea,Benoît Badiashile,FRA,24-054,5,334,6,80.0,2,0,6.0
+ENG-Premier League,Chelsea,Joshua Acheampong,ENG,19-014,4,170,1,100.0,1,1,1.0
+ENG-Premier League,Chelsea,Levi Colwill,ENG,22-082,34,3059,34,66.7,37,12,32.0
+ENG-Premier League,Chelsea,Malo Gusto,FRA,22-000,31,1849,29,52.1,29,21,24.0
+ENG-Premier League,Chelsea,Marc Cucurella,ESP,26-301,35,2898,42,50.9,47,32,28.0
+ENG-Premier League,Chelsea,Tosin Adarabioyo,ENG,27-237,21,1319,13,66.7,9,2,10.0
+ENG-Premier League,Chelsea,Trevoh Chalobah,ENG,25-318,13,910,7,87.5,6,3,10.0
+ENG-Premier League,Chelsea,Trevoh Chalobah,ENG,25-318,12,1060,7,87.5,6,3,10.0
+ENG-Premier League,Chelsea,Wesley Fofana,FRA,24-153,14,1172,12,42.9,14,5,14.0
+ENG-Premier League,Crystal Palace,Ben Chilwell,ENG,28-149,7,169,5,0.0,4,2,4.0
+ENG-Premier League,Crystal Palace,Caleb Kporha,ENG,18-308,2,13,1,100.0,0,0,0.0
+ENG-Premier League,Crystal Palace,Chadi Riad,MAR,21-336,1,90,2,66.7,0,0,2.0
+ENG-Premier League,Crystal Palace,Chris Richards,USA,25-052,22,1742,28,59.0,37,24,19.0
+ENG-Premier League,Crystal Palace,Daniel Muñoz,COL,28-358,35,3048,75,56.5,37,33,41.0
+ENG-Premier League,Crystal Palace,Joachim Andersen,DEN,28-353,1,90,1,50.0,0,0,0.0
+ENG-Premier League,Crystal Palace,Joachim Andersen,DEN,28-353,28,2493,1,50.0,0,0,0.0
+ENG-Premier League,Crystal Palace,Marc Guéhi,ENG,24-310,34,3059,34,66.0,55,32,28.0
+ENG-Premier League,Crystal Palace,Maxence Lacroix,FRA,25-043,33,2936,40,68.1,44,25,52.0
+ENG-Premier League,Crystal Palace,Trevoh Chalobah,ENG,25-318,13,910,16,52.2,19,10,19.0
+ENG-Premier League,Crystal Palace,Trevoh Chalobah,ENG,25-318,12,1060,16,52.2,19,10,19.0
+ENG-Premier League,Crystal Palace,Tyrick Mitchell,ENG,25-260,36,3002,54,53.5,63,51,14.0
+ENG-Premier League,Everton,Ashley Young,ENG,39-314,31,1785,31,60.0,14,10,24.0
+ENG-Premier League,Everton,Jake O'Brien,IRL,24-004,19,1481,16,66.7,17,13,4.0
+ENG-Premier League,Everton,James Tarkowski,ENG,32-181,33,2922,40,61.5,57,15,41.0
+ENG-Premier League,Everton,Jarrad Branthwaite,ENG,22-326,30,2511,20,71.4,31,8,27.0
+ENG-Premier League,Everton,Michael Keane,ENG,32-128,13,959,9,53.3,12,4,15.0
+ENG-Premier League,Everton,Nathan Patterson,SCO,23-215,10,347,6,50.0,2,2,2.0
+ENG-Premier League,Everton,Roman Dixon,ENG,20-144,1,90,5,100.0,1,1,1.0
+ENG-Premier League,Everton,Séamus Coleman,IRL,36-220,5,215,2,75.0,5,2,1.0
+ENG-Premier League,Everton,Vitaliy Mykolenko,UKR,25-355,34,2992,38,51.8,25,15,42.0
+ENG-Premier League,Fulham,Antonee Robinson,USA,27-284,35,3077,61,48.4,39,32,60.0
+ENG-Premier League,Fulham,Calvin Bassey,NGA,25-139,35,3074,34,71.0,40,23,20.0
+ENG-Premier League,Fulham,Issa Diop,FRA,28-130,21,1339,12,72.2,10,3,9.0
+ENG-Premier League,Fulham,Joachim Andersen,DEN,28-353,1,90,18,68.2,36,9,31.0
+ENG-Premier League,Fulham,Joachim Andersen,DEN,28-353,28,2493,18,68.2,36,9,31.0
+ENG-Premier League,Fulham,Jorge Cuenca,ESP,25-183,7,261,2,40.0,3,0,2.0
+ENG-Premier League,Fulham,Kenny Tete,NED,29-222,21,1684,35,58.3,28,19,30.0
+ENG-Premier League,Fulham,Timothy Castagne,BEL,29-165,24,1649,29,57.8,15,9,22.0
+ENG-Premier League,Ipswich Town,Axel Tuanzebe,COD,27-186,21,1620,19,65.4,20,10,23.0
+ENG-Premier League,Ipswich Town,Ben Godfrey,ENG,27-124,3,159,0,100.0,1,0,2.0
+ENG-Premier League,Ipswich Town,Ben Godfrey,ENG,27-124,1,23,0,100.0,1,0,2.0
+ENG-Premier League,Ipswich Town,Cameron Burgess,AUS,29-210,18,1541,12,81.8,20,5,14.0
+ENG-Premier League,Ipswich Town,Conor Townsend,ENG,32-076,6,335,8,72.7,8,2,4.0
+ENG-Premier League,Ipswich Town,Dara O'Shea,IRL,26-076,34,3032,30,62.5,62,12,31.0
+ENG-Premier League,Ipswich Town,Harry Clarke,ENG,24-078,7,379,3,50.0,5,1,4.0
+ENG-Premier League,Ipswich Town,Jacob Greaves,ENG,24-249,24,2115,21,64.7,39,14,20.0
+ENG-Premier League,Ipswich Town,Leif Davis,ENG,25-127,32,2653,27,63.8,24,16,25.0
+ENG-Premier League,Ipswich Town,Luke Woolfenden,ENG,26-210,15,1187,6,40.0,21,7,19.0
+ENG-Premier League,Leicester City,Caleb Okoli,ITA,23-310,19,1125,14,61.1,24,10,15.0
+ENG-Premier League,Leicester City,Conor Coady,ENG,32-083,21,1624,9,50.0,31,8,13.0
+ENG-Premier League,Leicester City,James Justin,ENG,27-085,35,2822,32,57.4,45,29,45.0
+ENG-Premier League,Leicester City,Jannik Vestergaard,DEN,32-289,18,1391,10,60.0,21,7,16.0
+ENG-Premier League,Leicester City,Luke Thomas,ENG,23-343,13,1039,24,53.8,14,8,21.0
+ENG-Premier League,Leicester City,Ricardo Pereira,POR,31-225,9,369,7,53.8,8,5,4.0
+ENG-Premier League,Leicester City,Victor Bernth Kristiansen,DEN,22-154,29,2394,50,54.0,37,23,40.0
+ENG-Premier League,Leicester City,Wout Faes,BEL,27-046,33,2725,25,52.2,46,12,26.0
+ENG-Premier League,Leicester City,Woyo Coulibaly,FRA,25-364,4,109,4,100.0,3,2,5.0
+ENG-Premier League,Leicester City,Woyo Coulibaly,FRA,25-364,14,1084,4,100.0,3,2,5.0
+ENG-Premier League,Liverpool,Andrew Robertson,SCO,31-069,32,2398,22,62.0,10,6,21.0
+ENG-Premier League,Liverpool,Conor Bradley,NIR,21-314,17,633,10,50.0,5,5,4.0
+ENG-Premier League,Liverpool,Ibrahima Konaté,FRA,25-359,29,2410,26,70.6,28,13,12.0
+ENG-Premier League,Liverpool,Jarell Quansah,ENG,22-110,12,405,8,75.0,8,1,6.0
+ENG-Premier League,Liverpool,Joe Gomez,ENG,27-361,9,519,10,68.8,9,3,7.0
+ENG-Premier League,Liverpool,Kostas Tsimikas,GRE,29-007,17,747,18,65.0,5,3,10.0
+ENG-Premier League,Liverpool,Trent Alexander-Arnold,ENG,26-224,32,2320,50,46.6,26,17,31.0
+ENG-Premier League,Liverpool,Virgil van Dijk,NED,33-315,36,3240,17,55.0,27,11,54.0
+ENG-Premier League,Manchester City,Abdukodir Khusanov,UZB,21-079,6,503,4,66.7,5,1,3.0
+ENG-Premier League,Manchester City,Abdukodir Khusanov,UZB,21-079,13,975,4,66.7,5,1,3.0
+ENG-Premier League,Manchester City,Jahmai Simpson-Pusey,ENG,19-196,2,96,0,0.0,1,0,0.0
+ENG-Premier League,Manchester City,Joško Gvardiol,CRO,23-116,35,3097,36,52.6,41,21,39.0
+ENG-Premier League,Manchester City,Kyle Walker,ENG,34-356,15,970,10,53.8,13,9,3.0
+ENG-Premier League,Manchester City,Kyle Walker,ENG,34-356,11,659,10,53.8,13,9,3.0
+ENG-Premier League,Manchester City,Manuel Akanji,SUI,29-304,24,1834,11,60.0,11,3,7.0
+ENG-Premier League,Manchester City,Nathan Aké,NED,30-090,10,678,7,66.7,7,5,3.0
+ENG-Premier League,Manchester City,Nico O’Reilly,ENG,20-059,9,528,4,50.0,5,4,4.0
+ENG-Premier League,Manchester City,Rúben Dias,POR,28-005,25,2091,10,63.6,19,3,18.0
+ENG-Premier League,Manchester Utd,Ayden Heaven,ENG,18-239,3,105,3,100.0,2,0,1.0
+ENG-Premier League,Manchester Utd,Diogo Dalot,POR,26-062,32,2788,39,65.4,22,13,37.0
+ENG-Premier League,Manchester Utd,Harry Amass,ENG,18-064,5,346,2,25.0,11,10,2.0
+ENG-Premier League,Manchester Utd,Harry Maguire,ENG,32-075,26,1668,14,71.4,15,3,40.0
+ENG-Premier League,Manchester Utd,Jonny Evans,NIR,37-136,6,290,5,50.0,2,1,4.0
+ENG-Premier League,Manchester Utd,Leny Yoro,FRA,19-187,21,1165,11,68.4,5,2,18.0
+ENG-Premier League,Manchester Utd,Lisandro Martínez,ARG,27-121,20,1751,24,58.3,22,14,32.0
+ENG-Premier League,Manchester Utd,Luke Shaw,ENG,29-311,7,349,3,100.0,6,5,2.0
+ENG-Premier League,Manchester Utd,Matthijs de Ligt,NED,25-280,29,2123,22,71.9,29,8,33.0
+ENG-Premier League,Manchester Utd,Noussair Mazraoui,MAR,27-186,36,2819,65,62.4,36,27,34.0
+ENG-Premier League,Manchester Utd,Patrick Dorgu,DEN,20-205,11,752,23,69.6,10,10,4.0
+ENG-Premier League,Manchester Utd,Patrick Dorgu,DEN,20-205,21,1840,23,69.6,10,10,4.0
+ENG-Premier League,Manchester Utd,Tyler Fredricson,ENG,20-085,2,165,3,50.0,2,2,1.0
+ENG-Premier League,Manchester Utd,Tyrell Malacia,NED,25-275,3,100,1,50.0,0,0,1.0
+ENG-Premier League,Manchester Utd,Victor Lindelöf,SWE,30-306,15,614,2,75.0,6,2,7.0
+ENG-Premier League,Newcastle Utd,Dan Burn,ENG,33-010,36,3240,23,55.6,34,10,26.0
+ENG-Premier League,Newcastle Utd,Emil Krafth,SWE,30-290,12,342,2,66.7,5,1,2.0
+ENG-Premier League,Newcastle Utd,Fabian Schär,SUI,33-150,33,2844,21,41.2,38,13,44.0
+ENG-Premier League,Newcastle Utd,Kieran Trippier,ENG,34-242,24,1281,20,60.0,11,8,12.0
+ENG-Premier League,Newcastle Utd,Lewis Hall,ENG,20-253,27,2189,41,54.1,33,15,18.0
+ENG-Premier League,Newcastle Utd,Lloyd Kelly,ENG,26-225,10,303,4,100.0,6,2,1.0
+ENG-Premier League,Newcastle Utd,Lloyd Kelly,ENG,26-225,11,923,4,100.0,6,2,1.0
+ENG-Premier League,Newcastle Utd,Matt Targett,ENG,29-243,2,21,0,0.0,0,0,1.0
+ENG-Premier League,Newcastle Utd,Sven Botman,NED,25-127,7,350,6,66.7,5,1,5.0
+ENG-Premier League,Newcastle Utd,Valentino Livramento,ENG,22-188,36,2750,36,54.2,37,26,23.0
+ENG-Premier League,Nott'ham Forest,Harry Toffolo,ENG,29-273,4,137,3,75.0,2,0,2.0
+ENG-Premier League,Nott'ham Forest,Morato,BRA,23-323,26,907,14,61.9,14,9,10.0
+ENG-Premier League,Nott'ham Forest,Murillo,BRA,22-319,35,3098,36,58.7,68,23,35.0
+ENG-Premier League,Nott'ham Forest,Neco Williams,WAL,24-036,34,2504,55,62.2,42,32,29.0
+ENG-Premier League,Nott'ham Forest,Nikola Milenković,SRB,27-219,36,3240,28,78.8,40,16,27.0
+ENG-Premier League,Nott'ham Forest,Ola Aina,NGA,28-223,34,2913,41,55.6,33,21,33.0
+ENG-Premier League,Nott'ham Forest,Willy Boly,CIV,34-105,6,150,1,100.0,4,2,3.0
+ENG-Premier League,Southampton,Armel Bella Kotchap,GER,23-159,4,331,5,50.0,2,0,5.0
+ENG-Premier League,Southampton,Charlie Taylor,ENG,31-243,7,266,5,83.3,5,2,3.0
+ENG-Premier League,Southampton,Jack Stephens,ENG,31-112,19,1389,20,56.7,20,7,13.0
+ENG-Premier League,Southampton,James Bree,ENG,27-220,17,1075,14,40.0,10,7,9.0
+ENG-Premier League,Southampton,Jan Bednarek,POL,29-037,30,2531,19,51.6,47,11,56.0
+ENG-Premier League,Southampton,Kyle Walker-Peters,ENG,28-036,33,2918,29,45.7,27,12,19.0
+ENG-Premier League,Southampton,Nathan Wood-Gordon,ENG,22-353,10,683,7,66.7,8,3,5.0
+ENG-Premier League,Southampton,Taylor Harwood-Bellis,ENG,23-109,34,2825,20,54.3,65,22,30.0
+ENG-Premier League,Tottenham,Ben Davies,WAL,32-025,16,1306,11,52.9,28,9,12.0
+ENG-Premier League,Tottenham,Cristian Romero,ARG,27-022,18,1416,29,70.0,18,15,21.0
+ENG-Premier League,Tottenham,Destiny Udogie,ITA,22-172,24,1834,47,70.2,40,34,21.0
+ENG-Premier League,Tottenham,Djed Spence,ENG,24-283,24,1784,34,76.7,28,19,21.0
+ENG-Premier League,Tottenham,Kevin Danso,AUT,26-242,9,752,5,54.5,12,0,5.0
+ENG-Premier League,Tottenham,Kevin Danso,AUT,26-242,12,1080,5,54.5,12,0,5.0
+ENG-Premier League,Tottenham,Micky van de Ven,NED,24-030,12,950,6,57.1,9,3,10.0
+ENG-Premier League,Tottenham,Pedro Porro,ESP,25-248,32,2520,46,57.5,44,27,34.0
+ENG-Premier League,Tottenham,Radu Drăgușin,ROU,23-105,16,1252,6,50.0,22,6,15.0
+ENG-Premier League,Tottenham,Sergio Reguilón,ESP,28-154,4,196,3,40.0,7,7,4.0
+ENG-Premier League,West Ham,Aaron Cresswell,ENG,35-155,17,823,7,81.8,9,5,8.0
+ENG-Premier League,West Ham,Aaron Wan-Bissaka,ENG,27-174,35,3064,48,74.2,36,25,64.0
+ENG-Premier League,West Ham,Emerson Palmieri,ITA,30-289,31,2113,31,56.3,32,24,21.0
+ENG-Premier League,West Ham,Jean-Clair Todibo,FRA,25-140,26,1736,26,73.5,24,12,24.0
+ENG-Premier League,West Ham,Konstantinos Mavropanos,GRE,27-159,32,1955,22,57.7,24,7,39.0
+ENG-Premier League,West Ham,Max Kilman,ENG,27-361,37,3258,24,85.2,57,18,38.0
+ENG-Premier League,West Ham,Oliver Scarles,ENG,19-158,14,594,11,61.9,14,12,10.0
+ENG-Premier League,West Ham,Vladimír Coufal,CZE,32-270,21,1048,15,45.5,13,2,8.0
+ENG-Premier League,Wolves,Craig Dawson,ENG,35-013,15,971,3,80.0,16,5,9.0
+ENG-Premier League,Wolves,Emmanuel Agbadou,CIV,27-336,14,1230,18,64.7,19,6,11.0
+ENG-Premier League,Wolves,Emmanuel Agbadou,CIV,27-336,14,1260,18,64.7,19,6,11.0
+ENG-Premier League,Wolves,Matt Doherty,IRL,33-123,29,2023,20,66.7,27,12,22.0
+ENG-Premier League,Wolves,Nélson Semedo,POR,31-184,32,2751,34,57.4,29,19,23.0
+ENG-Premier League,Wolves,Pedro Lima,BRA,18-322,3,70,0,33.3,0,0,2.0
+ENG-Premier League,Wolves,Rayan Aït-Nouri,ALG,23-347,35,2955,55,60.3,41,35,25.0
+ENG-Premier League,Wolves,Santiago Bueno,URU,26-191,28,1683,21,77.3,35,15,15.0
+ENG-Premier League,Wolves,Toti Gomes,POR,26-123,29,2434,41,78.6,28,11,24.0
+ENG-Premier League,Wolves,Yerson Mosquera,COL,24-017,5,441,7,64.3,13,3,10.0
+ESP-La Liga,Alavés,Abdel Abqar,MAR,26-070,29,2463,23,58.8,28,10,39.0
+ESP-La Liga,Alavés,Aleksandar Sedlar,SRB,33-157,8,516,9,80.0,2,1,9.0
+ESP-La Liga,Alavés,Facundo Garcés,ARG,25-256,9,588,1,60.0,8,2,5.0
+ESP-La Liga,Alavés,Manu Sánchez,ESP,24-268,32,2544,53,60.3,49,38,30.0
+ESP-La Liga,Alavés,Moussa Diarra,MLI,24-190,26,1866,24,58.6,15,10,21.0
+ESP-La Liga,Alavés,Nahuel Tenaglia,ARG,29-087,33,2832,58,62.2,33,24,41.0
+ESP-La Liga,Alavés,Pica,ESP,23-138,8,487,7,44.4,7,1,8.0
+ESP-La Liga,Alavés,Santiago Mouriño,URU,23-095,25,1849,28,56.8,27,15,28.0
+ESP-La Liga,Athletic Club,Aitor Paredes,ESP,25-020,22,1722,12,50.0,24,10,22.0
+ESP-La Liga,Athletic Club,Andoni Gorosabel,ESP,28-288,20,1485,28,66.7,18,16,18.0
+ESP-La Liga,Athletic Club,Daniel Vivian,ESP,25-308,31,2579,26,65.6,26,16,49.0
+ESP-La Liga,Athletic Club,Iñigo Lekue,ESP,32-015,15,771,12,52.9,7,5,8.0
+ESP-La Liga,Athletic Club,Unai Núñez,ESP,28-109,9,584,4,50.0,4,0,17.0
+ESP-La Liga,Athletic Club,Yeray Álvarez,ESP,30-115,21,1781,13,68.2,10,4,34.0
+ESP-La Liga,Athletic Club,Yuri Berchiche,ESP,35-098,29,1954,21,63.3,22,18,25.0
+ESP-La Liga,Athletic Club,Óscar de Marcos,ESP,36-035,25,1476,15,56.8,17,16,15.0
+ESP-La Liga,Atlético Madrid,Axel Witsel,BEL,36-127,13,762,12,83.3,15,7,9.0
+ESP-La Liga,Atlético Madrid,Clément Lenglet,FRA,29-336,22,1882,16,71.4,24,6,21.0
+ESP-La Liga,Atlético Madrid,César Azpilicueta,ESP,35-264,13,785,13,73.9,8,6,4.0
+ESP-La Liga,Atlético Madrid,Javi Galán,ESP,30-181,25,1784,31,51.0,13,10,12.0
+ESP-La Liga,Atlético Madrid,José María Giménez,URU,30-119,27,1999,16,60.7,29,10,27.0
+ESP-La Liga,Atlético Madrid,Nahuel Molina,ARG,27-043,29,1529,19,54.5,16,13,12.0
+ESP-La Liga,Atlético Madrid,Reinildo Mandava,MOZ,31-118,19,941,11,55.6,11,6,16.0
+ESP-La Liga,Atlético Madrid,Robin Le Normand,ESP,28-189,27,2151,18,60.0,20,11,10.0
+ESP-La Liga,Barcelona,Alejandro Balde,ESP,21-213,31,2204,10,68.8,24,19,5.0
+ESP-La Liga,Barcelona,Andreas Christensen,DEN,29-039,4,227,4,100.0,1,1,4.0
+ESP-La Liga,Barcelona,Gerard Martín,ESP,23-138,27,1028,10,68.8,16,14,12.0
+ESP-La Liga,Barcelona,Héctor Fort,ESP,18-290,17,585,8,62.5,12,12,6.0
+ESP-La Liga,Barcelona,Iñigo Martínez,ESP,34-002,28,2490,14,72.7,18,11,18.0
+ESP-La Liga,Barcelona,Jules Koundé,FRA,26-188,32,2605,43,66.7,35,30,20.0
+ESP-La Liga,Barcelona,Pau Cubarsí,ESP,18-117,34,2528,23,63.3,12,3,15.0
+ESP-La Liga,Barcelona,Ronald Araújo,URU,26-073,11,691,9,100.0,6,2,9.0
+ESP-La Liga,Betis,Diego Llorente,ESP,31-276,30,2519,20,65.8,29,9,43.0
+ESP-La Liga,Betis,Héctor Bellerín,ESP,30-061,9,580,7,58.8,5,2,6.0
+ESP-La Liga,Betis,Marc Bartra,ESP,34-124,24,2027,19,58.3,37,14,31.0
+ESP-La Liga,Betis,Natan,BRA,24-102,30,2085,23,86.2,24,10,26.0
+ESP-La Liga,Betis,Ricardo Rodríguez,SUI,32-267,17,1199,15,65.4,9,8,6.0
+ESP-La Liga,Betis,Romain Perraud,FRA,27-239,27,1987,22,45.7,17,13,21.0
+ESP-La Liga,Betis,Sergio Arribas,ESP,22-098,1,90,4,85.7,2,0,3.0
+ESP-La Liga,Betis,Youssouf Sabaly,SEN,32-075,22,1581,25,75.0,21,17,13.0
+ESP-La Liga,Betis,Ángel Ortíz,ESP,20-298,5,353,8,47.1,6,6,5.0
+ESP-La Liga,Celta Vigo,Carl Starfelt,SWE,29-352,28,2270,20,66.7,29,8,31.0
+ESP-La Liga,Celta Vigo,Carlos Dominguez,ESP,24-097,18,1091,11,71.4,13,5,9.0
+ESP-La Liga,Celta Vigo,Javi Rodríguez,ESP,21-327,35,2424,37,70.2,29,19,32.0
+ESP-La Liga,Celta Vigo,Javier Manquillo,ESP,31-014,10,515,5,20.0,5,2,7.0
+ESP-La Liga,Celta Vigo,Marcos Alonso,ESP,34-142,30,2557,20,55.8,22,15,34.0
+ESP-La Liga,Celta Vigo,Yoel Lago,ESP,21-055,8,583,8,77.8,5,1,4.0
+ESP-La Liga,Espanyol,Brian Oliván,ESP,31-048,17,1017,10,30.8,6,4,10.0
+ESP-La Liga,Espanyol,Carlos Romero,ESP,23-202,33,2464,43,52.6,49,35,29.0
+ESP-La Liga,Espanyol,Leandro Cabrera,URU,33-336,32,2779,22,56.3,35,10,30.0
+ESP-La Liga,Espanyol,Marash Kumbulla,ALB,25-100,35,2972,26,58.5,48,13,34.0
+ESP-La Liga,Espanyol,Omar El Hilali,MAR,21-249,35,3063,79,67.7,53,40,45.0
+ESP-La Liga,Espanyol,Sergi Gómez,ESP,33-052,11,652,5,66.7,12,4,7.0
+ESP-La Liga,Getafe,Diego Rico,ESP,32-085,32,2729,48,56.6,40,37,33.0
+ESP-La Liga,Getafe,Domingos Duarte,POR,30-070,21,1770,13,78.9,27,11,15.0
+ESP-La Liga,Getafe,Iglesias,ESP,26-320,36,2798,47,51.7,46,39,48.0
+ESP-La Liga,Getafe,Juan Berrocal,ESP,26-015,18,1018,7,71.4,6,3,13.0
+ESP-La Liga,Getafe,Omar Alderete,PAR,28-144,34,2971,28,66.7,38,16,40.0
+ESP-La Liga,Girona,Alejandro Francés,ESP,22-291,17,1110,24,69.2,16,9,16.0
+ESP-La Liga,Girona,Daley Blind,NED,35-071,33,2690,26,63.0,30,22,28.0
+ESP-La Liga,Girona,David López,ESP,35-222,29,2429,24,58.1,22,10,14.0
+ESP-La Liga,Girona,David López,ESP,35-222,1,79,24,58.1,22,10,14.0
+ESP-La Liga,Girona,Juanpe,ESP,34-019,11,700,5,75.0,15,5,8.0
+ESP-La Liga,Girona,Ladislav Krejčí,CZE,26-029,27,2350,15,50.0,24,5,34.0
+ESP-La Liga,Las Palmas,Andy Pelmard,FRA,25-068,4,205,0,80.0,3,2,2.0
+ESP-La Liga,Las Palmas,Andy Pelmard,FRA,25-068,3,129,0,80.0,3,2,2.0
+ESP-La Liga,Las Palmas,Daley Sinkgraven,NED,29-319,2,91,1,33.3,1,1,1.0
+ESP-La Liga,Las Palmas,Juan Herzog,ESP,22-006,18,1236,11,56.3,16,6,17.0
+ESP-La Liga,Las Palmas,Mika Mármol,ESP,23-322,29,2309,28,65.4,45,31,38.0
+ESP-La Liga,Las Palmas,Scott McKenna,SCO,28-188,28,2376,13,75.0,36,8,9.0
+ESP-La Liga,Las Palmas,Viti,ESP,27-245,29,1982,46,68.9,28,21,27.0
+ESP-La Liga,Las Palmas,Álex Muñoz,ESP,30-293,21,1415,29,55.3,28,17,16.0
+ESP-La Liga,Las Palmas,Álex Suárez,ESP,32-062,30,2460,23,74.1,39,15,13.0
+ESP-La Liga,Leganés,Aritz Arambarri,ESP,27-108,2,177,1,100.0,2,0,3.0
+ESP-La Liga,Leganés,Javi Hernández,ESP,27-017,30,2299,15,36.4,25,20,23.0
+ESP-La Liga,Leganés,Jorge Sáenz,ESP,28-183,22,1600,21,57.9,26,9,25.0
+ESP-La Liga,Leganés,Matija Nastasić,SRB,32-052,26,2110,11,68.0,39,9,21.0
+ESP-La Liga,Leganés,Sergi,ESP,33-029,35,2867,28,54.8,37,9,39.0
+ESP-La Liga,Leganés,Valentin Rosier,FRA,28-273,32,2595,52,63.2,40,25,52.0
+ESP-La Liga,Mallorca,Antonio Raillo,ESP,33-223,35,3117,17,77.8,46,11,28.0
+ESP-La Liga,Mallorca,Copete,ESP,25-221,25,1528,17,91.7,24,8,17.0
+ESP-La Liga,Mallorca,David López,ESP,22-105,29,2429,1,100.0,0,0,1.0
+ESP-La Liga,Mallorca,David López,ESP,22-105,1,79,1,100.0,0,0,1.0
+ESP-La Liga,Mallorca,Johan Mojica,COL,32-271,35,2743,23,47.5,13,8,26.0
+ESP-La Liga,Mallorca,Martin Valjent,SVK,29-159,31,2763,21,60.0,32,11,18.0
+ESP-La Liga,Mallorca,Mateu Morey,ESP,25-078,15,651,16,55.0,10,10,12.0
+ESP-La Liga,Mallorca,Pablo Maffeo,ESP,27-311,30,2368,40,73.9,32,21,25.0
+ESP-La Liga,Mallorca,Toni Lato,ESP,27-179,13,543,10,60.0,8,4,5.0
+ESP-La Liga,Osasuna,Abel,ESP,24-271,34,2042,35,62.7,29,25,18.0
+ESP-La Liga,Osasuna,Catena,ESP,30-203,34,2984,28,62.8,39,14,34.0
+ESP-La Liga,Osasuna,Enzo Boyomo,CMR,23-224,33,2897,42,78.4,34,15,44.0
+ESP-La Liga,Osasuna,Enzo Boyomo,CMR,23-224,3,270,42,78.4,34,15,44.0
+ESP-La Liga,Osasuna,Jesús Areso,ESP,25-321,35,2989,37,69.1,25,21,8.0
+ESP-La Liga,Osasuna,Jorge Herrando,ESP,24-080,18,1366,11,60.0,20,6,12.0
+ESP-La Liga,Osasuna,Juan Cruz Armada,ESP,32-295,24,1434,14,62.5,14,10,9.0
+ESP-La Liga,Osasuna,Nacho Vidal,ESP,30-115,5,124,0,25.0,1,1,0.0
+ESP-La Liga,Rayo Vallecano,Abdul Mumin,GHA,26-347,24,2017,25,63.0,40,11,23.0
+ESP-La Liga,Rayo Vallecano,Alfonso Espino,URU,33-134,16,833,24,55.3,19,13,12.0
+ESP-La Liga,Rayo Vallecano,Andrei Ratiu,ROU,26-333,34,2975,40,60.9,43,38,27.0
+ESP-La Liga,Rayo Vallecano,Aridane Hernández,ESP,36-057,13,935,10,71.4,9,2,4.0
+ESP-La Liga,Rayo Vallecano,Florian Lejeune,FRA,33-364,36,3235,28,53.5,38,6,39.0
+ESP-La Liga,Rayo Vallecano,Iván Balliu,ALB,33-138,24,1142,14,33.3,16,12,13.0
+ESP-La Liga,Real Madrid,Antonio Rüdiger,GER,32-077,29,2291,13,73.3,22,8,9.0
+ESP-La Liga,Real Madrid,Dani Carvajal,ESP,33-128,8,609,8,75.0,8,5,10.0
+ESP-La Liga,Real Madrid,Ferland Mendy,FRA,29-345,14,1005,14,75.0,11,7,9.0
+ESP-La Liga,Real Madrid,Fran Garcia,ESP,25-278,30,2081,33,57.8,25,20,28.0
+ESP-La Liga,Real Madrid,Jacobo Ramón,ESP,20-133,3,204,3,100.0,1,1,3.0
+ESP-La Liga,Real Madrid,Lucas Vázquez,ESP,33-322,31,2113,34,55.3,22,17,17.0
+ESP-La Liga,Real Madrid,Raúl Asencio,ESP,22-095,22,1580,15,76.9,9,4,14.0
+ESP-La Liga,Real Madrid,Éder Militão,BRA,27-121,12,938,17,58.3,13,5,12.0
+ESP-La Liga,Real Sociedad,Aihen Muñoz,ESP,27-276,20,1008,12,48.1,11,5,13.0
+ESP-La Liga,Real Sociedad,Aritz Elustondo,ESP,31-052,22,1457,11,57.9,17,5,10.0
+ESP-La Liga,Real Sociedad,Hamari Traoré,MLI,33-112,11,700,12,71.4,6,4,9.0
+ESP-La Liga,Real Sociedad,Igor Zubeldia,ESP,28-050,28,2269,23,55.6,31,13,31.0
+ESP-La Liga,Real Sociedad,Javi López,ESP,23-055,29,1936,23,62.2,21,14,9.0
+ESP-La Liga,Real Sociedad,Jon Aramburu,VEN,22-300,34,2370,68,65.3,38,30,28.0
+ESP-La Liga,Real Sociedad,Jon Martin,ESP,19-138,12,814,8,66.7,12,4,7.0
+ESP-La Liga,Real Sociedad,Jon Pacheco,ESP,24-131,13,764,9,80.0,8,2,8.0
+ESP-La Liga,Real Sociedad,Luken Beitia,ESP,20-323,1,8,1,100.0,0,0,0.0
+ESP-La Liga,Real Sociedad,Nayef Aguerd,MAR,29-050,21,1760,24,66.7,21,6,13.0
+ESP-La Liga,Sevilla,Adrià Pedrosa,ESP,27-006,30,2208,32,56.6,42,31,22.0
+ESP-La Liga,Sevilla,Carmona,ESP,23-110,34,2880,58,54.1,35,25,68.0
+ESP-La Liga,Sevilla,Kike Salas,ESP,23-026,30,2148,28,61.4,25,11,32.0
+ESP-La Liga,Sevilla,Loïc Bade,FRA,25-038,32,2686,27,74.2,22,9,29.0
+ESP-La Liga,Sevilla,Marcão,BRA,28-348,11,462,6,66.7,9,3,6.0
+ESP-La Liga,Sevilla,Ramón Martínez,ESP,22-209,4,233,3,66.7,2,1,2.0
+ESP-La Liga,Sevilla,Tanguy Nianzou,FRA,22-346,6,518,5,83.3,1,1,8.0
+ESP-La Liga,Valencia,Cristhian Mosquera,ESP,20-326,36,3229,33,76.3,34,12,35.0
+ESP-La Liga,Valencia,César Tárrega,ESP,23-082,33,2936,37,61.3,40,20,21.0
+ESP-La Liga,Valencia,Dimitri Foulquier,FRA,32-057,32,2299,31,66.7,21,16,16.0
+ESP-La Liga,Valencia,Jesus Vazquez,ESP,22-137,18,829,16,47.1,15,10,7.0
+ESP-La Liga,Valencia,José Luis Gayà,ESP,29-359,23,1803,40,70.2,16,14,25.0
+ESP-La Liga,Valencia,Maximiliano Caufriez,BEL,28-092,1,90,1,100.0,2,1,1.0
+ESP-La Liga,Valencia,Mouctar Diakhaby,GUI,28-151,12,563,1,60.0,8,2,9.0
+ESP-La Liga,Valencia,Rodrigo Abajas,ESP,22-007,1,65,2,100.0,1,1,1.0
+ESP-La Liga,Valencia,Thierry Correia,POR,26-071,11,768,18,56.5,10,9,4.0
+ESP-La Liga,Valencia,Yarek Gasiorowski,ESP,20-127,15,947,16,69.2,17,11,26.0
+ESP-La Liga,Valladolid,Adam Aznou,MAR,18-351,13,876,21,50.0,24,16,10.0
+ESP-La Liga,Valladolid,Adam Aznou,MAR,18-351,2,17,21,50.0,24,16,10.0
+ESP-La Liga,Valladolid,Antonio Candela,ITA,25-022,11,861,6,44.4,11,5,6.0
+ESP-La Liga,Valladolid,Antonio Candela,ITA,25-022,14,1008,6,44.4,11,5,6.0
+ESP-La Liga,Valladolid,Cenk Özkacar,TUR,24-225,10,712,5,30.8,9,3,18.0
+ESP-La Liga,Valladolid,David Torres,ESP,22-075,18,1387,8,63.6,19,2,10.0
+ESP-La Liga,Valladolid,Enzo Boyomo,CMR,23-224,33,2897,2,100.0,4,1,1.0
+ESP-La Liga,Valladolid,Enzo Boyomo,CMR,23-224,3,270,2,100.0,4,1,1.0
+ESP-La Liga,Valladolid,Henrique,BRA,31-024,4,262,2,0.0,5,5,2.0
+ESP-La Liga,Valladolid,Javi Sánchez,ESP,28-066,25,2026,16,65.4,39,11,22.0
+ESP-La Liga,Valladolid,Joseph Aidoo,GHA,29-232,1,2,5,66.7,6,3,4.0
+ESP-La Liga,Valladolid,Joseph Aidoo,GHA,29-232,7,538,5,66.7,6,3,4.0
+ESP-La Liga,Valladolid,Juma Bah,SLE,19-038,12,864,7,60.0,15,7,12.0
+ESP-La Liga,Valladolid,Juma Bah,SLE,19-038,10,686,7,60.0,15,7,12.0
+ESP-La Liga,Valladolid,Lucas Oliveira Rosa,BRA,25-046,21,1890,33,68.6,24,15,28.0
+ESP-La Liga,Valladolid,Luis Pérez,ESP,30-104,29,2513,27,60.0,26,17,28.0
+ESP-La Liga,Valladolid,Raúl Chasco,ESP,21-248,2,130,1,50.0,1,1,2.0
+ESP-La Liga,Villarreal,Eric Bailly,CIV,31-037,12,617,4,75.0,12,6,6.0
+ESP-La Liga,Villarreal,Juan Foyth,ARG,27-127,19,1517,15,68.8,26,9,19.0
+ESP-La Liga,Villarreal,Kiko Femenía,ESP,34-106,28,2227,34,57.9,21,11,40.0
+ESP-La Liga,Villarreal,Logan Costa,CPV,24-048,31,2497,21,82.8,22,9,21.0
+ESP-La Liga,Villarreal,Logan Costa,CPV,24-048,1,90,21,82.8,22,9,21.0
+ESP-La Liga,Villarreal,Pau Navarro,ESP,20-024,16,826,17,51.4,13,7,4.0
+ESP-La Liga,Villarreal,Raúl Albiol,ESP,39-257,15,1188,9,60.0,10,1,6.0
+ESP-La Liga,Villarreal,Sergi Cardona,ESP,25-315,35,2945,48,62.0,52,45,40.0
+ESP-La Liga,Villarreal,Willy Kambwala,FRA,20-267,18,1027,12,83.3,8,2,9.0
+FRA-Ligue 1,Angers,Abdoulaye Bamba,CIV,35-024,19,1510,12,73.7,14,6,19.0
+FRA-Ligue 1,Angers,Carlens Arcus,HAI,28-325,28,2047,35,60.7,24,20,27.0
+FRA-Ligue 1,Angers,Cédric Hountondji,BEN,31-120,3,270,4,42.9,3,0,4.0
+FRA-Ligue 1,Angers,Emmanuel Biumla,FRA,20-011,17,1336,12,66.7,18,10,8.0
+FRA-Ligue 1,Angers,Florent Hanin,ALG,35-104,33,2672,48,54.9,31,21,47.0
+FRA-Ligue 1,Angers,Jordan Lefort,FRA,31-283,34,3060,30,68.2,56,19,32.0
+FRA-Ligue 1,Angers,Ousmane Camara,FRA,22-074,3,252,3,50.0,1,0,0.0
+FRA-Ligue 1,Auxerre,Clément Akpa,CIV,23-176,31,2486,34,67.4,38,24,42.0
+FRA-Ligue 1,Auxerre,Fredrik Oppegard,NOR,22-285,9,273,4,42.9,2,1,2.0
+FRA-Ligue 1,Auxerre,Gabriel Osho,NGA,26-278,20,1654,15,65.0,32,13,12.0
+FRA-Ligue 1,Auxerre,Gideon Mensah,GHA,26-305,29,2280,45,50.0,27,23,50.0
+FRA-Ligue 1,Auxerre,Jubal,BRA,31-263,30,2640,39,70.0,61,25,25.0
+FRA-Ligue 1,Auxerre,Ki-Jana Hoever,NED,23-121,30,2124,38,55.6,33,30,21.0
+FRA-Ligue 1,Auxerre,Loïc N'Gatta,FRA,21-159,2,13,1,50.0,1,1,0.0
+FRA-Ligue 1,Auxerre,Paul Joly,FRA,24-346,26,1009,32,60.0,19,18,25.0
+FRA-Ligue 1,Auxerre,Sinaly Diomande,CIV,24-040,23,1945,19,70.0,37,19,30.0
+FRA-Ligue 1,Auxerre,Théo Pellenard,FRA,31-076,2,45,2,33.3,1,1,0.0
+FRA-Ligue 1,Brest,Abdoulaye Niakhate Ndiaye,SEN,23-039,22,1707,33,67.6,29,12,11.0
+FRA-Ligue 1,Brest,Bradley Locko,FRA,23-013,2,97,2,100.0,3,1,1.0
+FRA-Ligue 1,Brest,Brendan Chardonnet,FRA,30-148,27,2416,33,62.5,45,17,29.0
+FRA-Ligue 1,Brest,Jordan Amavi,FRA,31-071,11,790,17,71.4,10,8,7.0
+FRA-Ligue 1,Brest,Julien Le Cardinal,FRA,27-289,16,1378,15,68.8,18,4,33.0
+FRA-Ligue 1,Brest,Kenny Lala,MAD,33-228,30,2686,42,66.7,25,16,25.0
+FRA-Ligue 1,Brest,Luc Zogbé,CIV,20-056,13,638,18,69.2,11,9,14.0
+FRA-Ligue 1,Brest,Massadio Haïdara,MLI,32-168,22,1678,16,44.8,18,16,26.0
+FRA-Ligue 1,Brest,Soumaïla Coulibaly,FRA,21-217,7,438,2,100.0,7,5,5.0
+FRA-Ligue 1,Le Havre,Arouna Sangante,SEN,23-037,16,1244,16,58.8,11,6,21.0
+FRA-Ligue 1,Le Havre,Etienne Youte Kinkoue,FRA,23-125,28,2320,10,65.0,36,13,29.0
+FRA-Ligue 1,Le Havre,Gautier Lloris,FRA,29-305,31,2768,43,71.7,33,12,34.0
+FRA-Ligue 1,Le Havre,Timothee Pembele,FRA,22-252,20,1113,22,60.9,16,11,11.0
+FRA-Ligue 1,Le Havre,Yoann Salmier,GUF,32-179,13,797,7,76.9,12,4,10.0
+FRA-Ligue 1,Lens,Abdukodir Khusanov,UZB,21-079,6,503,11,63.6,17,6,26.0
+FRA-Ligue 1,Lens,Abdukodir Khusanov,UZB,21-079,13,975,11,63.6,17,6,26.0
+FRA-Ligue 1,Lens,Facundo Medina,ARG,25-356,29,2543,29,57.1,30,20,32.0
+FRA-Ligue 1,Lens,Jonathan Gradit,FRA,32-176,25,2112,23,57.5,27,15,25.0
+FRA-Ligue 1,Lens,Juma Bah,SLE,19-038,12,864,10,71.4,10,3,17.0
+FRA-Ligue 1,Lens,Juma Bah,SLE,19-038,10,686,10,71.4,10,3,17.0
+FRA-Ligue 1,Lens,Kevin Danso,AUT,26-242,9,752,7,75.0,25,6,20.0
+FRA-Ligue 1,Lens,Kevin Danso,AUT,26-242,12,1080,7,75.0,25,6,20.0
+FRA-Ligue 1,Lens,Malang Sarr,FRA,26-116,21,1385,13,59.3,18,9,22.0
+FRA-Ligue 1,Lens,Przemysław Frankowski,POL,30-037,18,1387,21,63.3,10,8,19.0
+FRA-Ligue 1,Lille,Alexsandro Ribeiro,BRA,25-283,30,2700,19,66.7,23,10,27.0
+FRA-Ligue 1,Lille,Aïssa Mandi,ALG,33-209,24,1733,17,72.7,23,12,15.0
+FRA-Ligue 1,Lille,Bafodé Diakité,FRA,24-133,31,2766,18,69.2,30,13,27.0
+FRA-Ligue 1,Lille,Gabriel Gudmundsson,SWE,26-020,30,1785,25,63.9,19,12,17.0
+FRA-Ligue 1,Lille,Ismaily,BRA,35-128,16,904,17,65.4,15,14,13.0
+FRA-Ligue 1,Lille,Thomas Meunier,BEL,33-249,30,1928,38,67.3,21,13,34.0
+FRA-Ligue 1,Lille,Tiago Santos,POR,22-300,7,404,7,66.7,2,2,2.0
+FRA-Ligue 1,Lyon,Abner,BRA,24-357,19,1090,20,65.6,15,13,5.0
+FRA-Ligue 1,Lyon,Ainsley Maitland-Niles,ENG,27-263,32,1985,44,63.2,28,24,25.0
+FRA-Ligue 1,Lyon,Clinton Mata,ANG,32-193,29,2370,29,77.8,26,9,46.0
+FRA-Ligue 1,Lyon,Duje Ćaleta-Car,CRO,28-244,19,1584,12,52.6,33,8,17.0
+FRA-Ligue 1,Lyon,Moussa Niakhate,SEN,29-072,31,2726,27,75.0,26,9,25.0
+FRA-Ligue 1,Lyon,Nicolás Tagliafico,ARG,32-261,24,1902,37,60.4,25,18,36.0
+FRA-Ligue 1,Lyon,Sael Kumbedi,FRA,20-054,14,951,14,70.0,11,8,8.0
+FRA-Ligue 1,Marseille,Amar Dedić,BIH,22-274,10,314,4,30.0,0,0,3.0
+FRA-Ligue 1,Marseille,Derek Cornelius,CAN,27-175,21,1420,17,77.3,16,6,14.0
+FRA-Ligue 1,Marseille,Leonardo Balerdi,ARG,26-113,27,2273,39,57.4,25,11,38.0
+FRA-Ligue 1,Marseille,Lilian Brassier,FRA,25-198,12,779,6,83.3,8,5,9.0
+FRA-Ligue 1,Marseille,Lilian Brassier,FRA,25-198,14,1234,6,83.3,8,5,9.0
+FRA-Ligue 1,Marseille,Luiz Felipe,ITA,28-058,4,122,3,50.0,3,1,3.0
+FRA-Ligue 1,Marseille,Michael Amir Murillo,PAN,29-097,30,2437,31,69.6,21,13,18.0
+FRA-Ligue 1,Marseille,Pol Lirola,ESP,27-279,19,680,9,38.5,7,5,4.0
+FRA-Ligue 1,Marseille,Quentin Merlin,FRA,23-003,27,1589,17,56.3,20,16,14.0
+FRA-Ligue 1,Marseille,Ulisses Garcia,SUI,29-128,20,930,11,28.6,5,4,8.0
+FRA-Ligue 1,Monaco,Caio Henrique Oliveira Silva,BRA,27-292,27,1929,26,52.3,26,18,22.0
+FRA-Ligue 1,Monaco,Christian Mawissa,FRA,20-031,22,1501,29,59.1,25,19,26.0
+FRA-Ligue 1,Monaco,Ismail Jakobs,SEN,25-275,2,180,5,60.0,0,0,2.0
+FRA-Ligue 1,Monaco,Jordan Teze,NED,25-231,16,569,9,43.8,12,11,6.0
+FRA-Ligue 1,Monaco,Mohammed Salisu,GHA,26-032,15,1023,18,81.3,10,2,16.0
+FRA-Ligue 1,Monaco,Thilo Kehrer,GER,28-240,27,2383,23,57.9,18,8,36.0
+FRA-Ligue 1,Monaco,Vanderson,BRA,23-332,29,2064,48,70.3,43,37,39.0
+FRA-Ligue 1,Monaco,Wilfried Singo,CIV,24-145,27,2096,23,71.4,17,8,43.0
+FRA-Ligue 1,Montpellier,Bamo Meïté,CIV,23-167,3,26,3,50.0,3,0,4.0
+FRA-Ligue 1,Montpellier,Bamo Meïté,CIV,23-167,7,424,3,50.0,3,0,4.0
+FRA-Ligue 1,Montpellier,Becir Omeragic,SUI,23-119,22,1799,16,76.2,32,11,13.0
+FRA-Ligue 1,Montpellier,Boubakar Kouyaté,MLI,28-034,11,756,17,57.9,17,6,12.0
+FRA-Ligue 1,Montpellier,Enzo Tchato,CMR,22-177,27,1899,26,59.1,30,20,22.0
+FRA-Ligue 1,Montpellier,Falaye Sacko,MLI,30-018,16,1233,8,47.4,17,10,13.0
+FRA-Ligue 1,Montpellier,Issiaga Sylla,GUI,31-138,19,1156,10,51.7,13,9,10.0
+FRA-Ligue 1,Montpellier,Lucas Mincarelli,FRA,21-134,10,715,10,46.2,8,3,9.0
+FRA-Ligue 1,Montpellier,Modibo Sagnan,MLI,26-035,27,2141,35,59.1,24,11,29.0
+FRA-Ligue 1,Montpellier,Nikola Maksimović,SRB,33-175,7,581,5,85.7,5,1,6.0
+FRA-Ligue 1,Montpellier,Théo Chennahi,FRA,20-102,4,181,3,57.1,3,3,2.0
+FRA-Ligue 1,Montpellier,Théo Sainte-Luce,FRA,26-211,16,1018,11,48.5,16,12,12.0
+FRA-Ligue 1,Montpellier,Wilfried Ndollo,CMR,19-310,8,401,5,50.0,9,8,7.0
+FRA-Ligue 1,Montpellier,Yael Mouanga,FRA,19-300,14,946,8,77.8,16,8,10.0
+FRA-Ligue 1,Nantes,Fabien Centonze,FRA,29-123,7,265,4,66.7,4,3,2.0
+FRA-Ligue 1,Nantes,Jean-Kevin Duverne,HAI,27-311,9,537,12,55.6,10,7,8.0
+FRA-Ligue 1,Nantes,Kelvin Amian,FRA,27-100,30,2165,31,82.9,18,7,13.0
+FRA-Ligue 1,Nantes,Marcus Coco,FRA,28-329,20,951,21,51.6,16,11,11.0
+FRA-Ligue 1,Nantes,Nathan Zeze,FRA,19-335,18,1512,22,69.7,22,13,23.0
+FRA-Ligue 1,Nantes,Nicolas Pallois,FRA,37-242,26,2017,27,58.7,48,30,28.0
+FRA-Ligue 1,Nantes,Saidou Sow,GUI,22-319,9,799,11,60.0,19,7,13.0
+FRA-Ligue 1,Nantes,Saidou Sow,GUI,22-319,12,1018,11,60.0,19,7,13.0
+FRA-Ligue 1,Nice,Amidou Doumbouya,FRA,17-287,2,46,1,100.0,3,2,1.0
+FRA-Ligue 1,Nice,Antoine Mendy,SEN,20-357,18,825,21,65.5,9,4,8.0
+FRA-Ligue 1,Nice,Dante,BRA,41-213,25,1964,15,51.7,29,15,34.0
+FRA-Ligue 1,Nice,Mohamed Abdelmoneim,EGY,26-107,12,855,14,59.1,11,6,15.0
+FRA-Ligue 1,Nice,Moïse Bombito,CAN,25-050,27,2192,25,68.6,35,16,18.0
+FRA-Ligue 1,Nice,Yael Nandjou,FRA,19-317,3,154,1,50.0,4,3,4.0
+FRA-Ligue 1,Nice,Youssouf Ndayishimiye,BDI,26-204,23,1932,21,59.3,35,16,21.0
+FRA-Ligue 1,Paris S-G,Achraf Hakimi,MAR,26-196,25,2066,36,49.1,25,23,31.0
+FRA-Ligue 1,Paris S-G,Lucas Beraldo,BRA,21-176,25,2011,31,62.2,16,8,21.0
+FRA-Ligue 1,Paris S-G,Lucas Hernández,FRA,29-094,16,877,18,60.9,12,7,7.0
+FRA-Ligue 1,Paris S-G,Marquinhos,BRA,31-005,22,1725,19,75.8,27,12,11.0
+FRA-Ligue 1,Paris S-G,Milan Škriniar,SVK,30-097,5,382,5,100.0,7,1,3.0
+FRA-Ligue 1,Paris S-G,Nuno Mendes,POR,22-334,24,1676,19,59.0,25,17,18.0
+FRA-Ligue 1,Paris S-G,Willian Pacho,ECU,23-215,28,2132,32,71.9,35,13,40.0
+FRA-Ligue 1,Reims,Abdoul Koné,FRA,20-027,4,133,3,60.0,2,1,1.0
+FRA-Ligue 1,Reims,Aurélio Buta,POR,28-098,27,1970,24,50.0,19,14,22.0
+FRA-Ligue 1,Reims,Cédric Kipré,CIV,28-161,28,2190,30,74.4,42,15,32.0
+FRA-Ligue 1,Reims,Emmanuel Agbadou,CIV,27-336,14,1230,17,73.1,22,9,19.0
+FRA-Ligue 1,Reims,Emmanuel Agbadou,CIV,27-336,14,1260,17,73.1,22,9,19.0
+FRA-Ligue 1,Reims,Hiroki Sekine,JPN,22-281,15,887,7,41.2,22,11,5.0
+FRA-Ligue 1,Reims,Joseph Okumu,KEN,27-358,22,1695,15,62.5,33,12,25.0
+FRA-Ligue 1,Reims,Sergio Akieme,ESP,27-154,30,2523,23,61.1,26,17,17.0
+FRA-Ligue 1,Reims,Thibault De Smet,BEL,26-348,5,192,4,100.0,5,2,4.0
+FRA-Ligue 1,Rennes,Alidu Seidu,GHA,24-349,11,803,18,80.0,13,7,14.0
+FRA-Ligue 1,Rennes,Anthony Rouault,FRA,23-355,11,972,8,100.0,13,2,8.0
+FRA-Ligue 1,Rennes,Anthony Rouault,FRA,23-355,18,1212,8,100.0,13,2,8.0
+FRA-Ligue 1,Rennes,Christopher Wooh,CMR,23-243,20,1456,19,66.7,22,14,23.0
+FRA-Ligue 1,Rennes,Hans Hateboer,NED,31-130,26,1684,16,50.0,19,13,29.0
+FRA-Ligue 1,Rennes,Jérémy Jacquet,FRA,19-310,11,927,17,63.6,9,6,27.0
+FRA-Ligue 1,Rennes,Leo Skiri Østigård,NOR,25-172,16,1227,18,68.2,12,2,15.0
+FRA-Ligue 1,Rennes,Leo Skiri Østigård,NOR,25-172,11,927,18,68.2,12,2,15.0
+FRA-Ligue 1,Rennes,Lilian Brassier,FRA,25-198,12,779,12,81.8,17,7,22.0
+FRA-Ligue 1,Rennes,Lilian Brassier,FRA,25-198,14,1234,12,81.8,17,7,22.0
+FRA-Ligue 1,Rennes,Mahamadou Nagida,CMR,19-325,12,430,6,80.0,3,3,9.0
+FRA-Ligue 1,Rennes,Mikayil Ngor Faye,SEN,20-309,11,688,12,77.8,9,5,12.0
+FRA-Ligue 1,Saint-Étienne,Beres Owusu,FRA,21-242,1,90,2,100.0,2,0,0.0
+FRA-Ligue 1,Saint-Étienne,Dennis Appiah,FRA,32-344,29,2128,43,57.7,36,28,29.0
+FRA-Ligue 1,Saint-Étienne,Dylan Batubinsika,COD,29-093,25,2016,13,59.1,23,9,39.0
+FRA-Ligue 1,Saint-Étienne,Kévin Pedro,FRA,19-087,1,10,0,100.0,1,1,2.0
+FRA-Ligue 1,Saint-Étienne,Léo Pétrot,FRA,28-034,31,2634,39,66.7,50,23,42.0
+FRA-Ligue 1,Saint-Étienne,Marwann Nzuzi,FRA,21-003,2,125,2,50.0,0,0,2.0
+FRA-Ligue 1,Saint-Étienne,Maxime Bernauer,FRA,26-322,11,763,9,62.5,7,4,5.0
+FRA-Ligue 1,Saint-Étienne,Mickael Nade,FRA,26-076,26,2306,43,77.8,37,18,33.0
+FRA-Ligue 1,Saint-Étienne,Pierre Cornud,FRA,28-158,11,576,10,47.1,9,5,9.0
+FRA-Ligue 1,Saint-Étienne,Yunis Abdelhamid,MAR,37-233,16,1033,11,62.5,26,8,14.0
+FRA-Ligue 1,Saint-Étienne,Yvann Macon,FRA,26-230,12,790,11,47.6,14,10,2.0
+FRA-Ligue 1,Strasbourg,Abakar Sylla,CIV,22-145,21,950,15,88.2,18,8,11.0
+FRA-Ligue 1,Strasbourg,Andrew Omobamidele,IRL,22-330,10,539,4,40.0,12,4,8.0
+FRA-Ligue 1,Strasbourg,Eduard Sobol,UKR,30-029,10,95,0,0.0,2,1,2.0
+FRA-Ligue 1,Strasbourg,Guela Doué,CIV,22-214,32,2717,45,68.5,38,32,34.0
+FRA-Ligue 1,Strasbourg,Mamadou Sarr,FRA,19-263,27,2365,21,66.7,26,6,25.0
+FRA-Ligue 1,Strasbourg,Marvin Senaya,TOG,24-111,10,227,3,50.0,6,4,7.0
+FRA-Ligue 1,Strasbourg,Saidou Sow,GUI,22-319,9,799,5,50.0,15,6,15.0
+FRA-Ligue 1,Strasbourg,Saidou Sow,GUI,22-319,12,1018,5,50.0,15,6,15.0
+FRA-Ligue 1,Strasbourg,Thomas Delaine,FRA,33-056,2,9,1,100.0,0,0,1.0
+FRA-Ligue 1,Toulouse,Charlie Cresswell,ENG,22-275,31,2592,23,60.9,44,16,28.0
+FRA-Ligue 1,Toulouse,Djibril Sidibé,FRA,32-294,28,2101,36,62.0,11,8,20.0
+FRA-Ligue 1,Toulouse,Gabriel Suazo,CHI,27-283,30,2163,39,41.7,27,24,36.0
+FRA-Ligue 1,Toulouse,Logan Costa,CPV,24-048,31,2497,1,100.0,2,0,2.0
+FRA-Ligue 1,Toulouse,Logan Costa,CPV,24-048,1,90,1,100.0,2,0,2.0
+FRA-Ligue 1,Toulouse,Mark McKenzie,USA,26-083,30,2496,31,73.3,31,13,22.0
+FRA-Ligue 1,Toulouse,Rafik Messali,FRA,22-021,13,456,8,87.5,9,8,10.0
+FRA-Ligue 1,Toulouse,Rasmus Nicolaisen,DEN,28-064,7,623,3,60.0,10,5,10.0
+FRA-Ligue 1,Toulouse,Ümit Akdag,ROU,21-225,9,500,4,41.7,10,2,11.0
+GER-Bundesliga,Augsburg,Cedric Zesiger,SUI,26-329,15,1221,7,61.5,17,7,21.0
+GER-Bundesliga,Augsburg,Cedric Zesiger,SUI,26-329,7,522,7,61.5,17,7,21.0
+GER-Bundesliga,Augsburg,Chrislain Matsima,FRA,23-004,30,2551,20,65.4,48,19,52.0
+GER-Bundesliga,Augsburg,Dimitris Giannoulis,GRE,29-214,31,2650,32,59.1,49,38,47.0
+GER-Bundesliga,Augsburg,Henri Koudossou,GER,25-258,21,748,10,57.9,8,6,15.0
+GER-Bundesliga,Augsburg,Jeffrey Gouweleeuw,NED,33-313,33,2944,28,67.5,34,19,35.0
+GER-Bundesliga,Augsburg,Keven Schlotterbeck,GER,28-021,18,1297,17,75.0,13,7,15.0
+GER-Bundesliga,Augsburg,Mads Pedersen,DEN,28-260,7,235,7,80.0,4,4,2.0
+GER-Bundesliga,Augsburg,Marius Wolf,GER,29-357,32,2144,16,37.2,29,24,24.0
+GER-Bundesliga,Augsburg,Maximilian Bauer,GER,25-099,11,658,8,64.3,10,6,6.0
+GER-Bundesliga,Augsburg,Noahkai Banks,USA,18-169,8,278,5,42.9,4,3,5.0
+GER-Bundesliga,Augsburg,Robert Gumny,POL,26-349,7,271,3,33.3,2,2,1.0
+GER-Bundesliga,Bayern Munich,Alphonso Davies,CAN,24-198,19,1560,17,65.4,14,13,13.0
+GER-Bundesliga,Bayern Munich,Dayot Upamecano,FRA,26-204,20,1759,22,55.2,17,10,34.0
+GER-Bundesliga,Bayern Munich,Eric Dier,ENG,31-124,21,1463,11,65.0,19,11,20.0
+GER-Bundesliga,Bayern Munich,Hiroki Ito,JPN,26-007,6,250,0,100.0,3,1,6.0
+GER-Bundesliga,Bayern Munich,Josip Stanišić,CRO,25-047,14,876,11,46.7,10,4,6.0
+GER-Bundesliga,Bayern Munich,Kim Min-jae,KOR,28-185,27,2283,20,52.4,23,13,37.0
+GER-Bundesliga,Bayern Munich,Konrad Laimer,AUT,27-357,29,1699,27,47.9,24,23,8.0
+GER-Bundesliga,Bayern Munich,Sacha Boey,FRA,24-248,13,593,5,72.2,6,6,2.0
+GER-Bundesliga,Bochum,Bernardo,BRA,30-005,21,1782,28,73.0,38,21,26.0
+GER-Bundesliga,Bochum,Cristian Gamboa,CRC,35-207,12,226,3,33.3,2,2,2.0
+GER-Bundesliga,Bochum,Erhan Mašović,SRB,26-178,16,910,10,46.4,17,6,12.0
+GER-Bundesliga,Bochum,Ivan Ordets,UKR,32-315,22,1861,8,76.9,29,13,41.0
+GER-Bundesliga,Bochum,Jakov Medić,CRO,26-254,23,1603,11,44.4,32,11,22.0
+GER-Bundesliga,Bochum,Maximilian Wittek,GER,29-271,33,2706,42,70.4,54,46,27.0
+GER-Bundesliga,Bochum,Tim Oermann,GER,21-225,29,2213,31,60.5,32,16,22.0
+GER-Bundesliga,Dortmund,Almugera Kabar,GER,18-347,5,137,3,100.0,1,1,1.0
+GER-Bundesliga,Dortmund,Julian Ryerson,NOR,27-183,29,2259,30,56.8,29,27,22.0
+GER-Bundesliga,Dortmund,Nico Schlotterbeck,GER,25-169,23,1982,24,60.0,31,16,22.0
+GER-Bundesliga,Dortmund,Niklas Süle,GER,29-258,15,1053,12,71.4,11,5,4.0
+GER-Bundesliga,Dortmund,Ramy Bensebaini,ALG,30-033,31,2022,25,64.7,42,33,33.0
+GER-Bundesliga,Dortmund,Waldemar Anton,GER,28-303,26,1949,21,73.9,33,17,30.0
+GER-Bundesliga,Eint Frankfurt,Arthur Theate,BEL,24-359,31,2704,25,50.0,42,23,39.0
+GER-Bundesliga,Eint Frankfurt,Nnamdi Collins,GER,21-129,24,1489,24,77.3,22,11,16.0
+GER-Bundesliga,Eint Frankfurt,Rasmus Kristensen,DEN,27-312,30,2513,33,59.7,50,37,20.0
+GER-Bundesliga,Eint Frankfurt,Robin Koch,GER,28-306,30,2586,11,45.5,39,14,25.0
+GER-Bundesliga,Freiburg,Christian Günter,GER,32-080,29,2314,21,55.2,24,14,8.0
+GER-Bundesliga,Freiburg,Ifechukwu Ogbus,SUI,19-153,2,19,1,0.0,0,0,1.0
+GER-Bundesliga,Freiburg,Jordy Makengo,FRA,23-289,19,745,9,62.5,8,5,7.0
+GER-Bundesliga,Freiburg,Kiliann Sildillia,FRA,23-003,21,801,10,53.8,16,11,11.0
+GER-Bundesliga,Freiburg,Lukas Kübler,GER,32-262,28,1842,21,56.3,32,19,53.0
+GER-Bundesliga,Freiburg,Matthias Ginter,GER,31-120,32,2561,17,53.6,35,12,19.0
+GER-Bundesliga,Freiburg,Max Rosenfelder,GER,22-098,25,1249,17,73.7,17,8,7.0
+GER-Bundesliga,Freiburg,Philipp Lienhart,AUT,28-312,32,2770,13,48.4,31,11,36.0
+GER-Bundesliga,Gladbach,Fabio Chiarodia,ITA,19-348,16,379,4,66.7,8,5,9.0
+GER-Bundesliga,Gladbach,Joe Scally,USA,22-139,32,2578,32,58.7,35,24,16.0
+GER-Bundesliga,Gladbach,Ko Itakura,JPN,28-112,31,2790,29,61.8,41,19,28.0
+GER-Bundesliga,Gladbach,Luca Netz,GER,22-004,24,969,14,68.4,17,13,10.0
+GER-Bundesliga,Gladbach,Lukas Ullrich,GER,21-064,26,1903,16,35.7,26,17,23.0
+GER-Bundesliga,Gladbach,Marvin Friedrich,GER,29-157,22,989,9,56.3,16,4,5.0
+GER-Bundesliga,Gladbach,Nico Elvedi,SUI,28-231,25,2135,23,73.9,35,8,30.0
+GER-Bundesliga,Gladbach,Stefan Lainer,AUT,32-265,21,757,13,85.7,12,6,12.0
+GER-Bundesliga,Heidenheim,Benedikt Gimber,GER,28-089,32,2671,46,60.3,53,34,31.0
+GER-Bundesliga,Heidenheim,Jonas Föhrenbach,GER,29-113,27,1832,24,62.9,29,26,16.0
+GER-Bundesliga,Heidenheim,Omar Traoré,GER,27-104,30,2616,26,61.0,35,29,21.0
+GER-Bundesliga,Heidenheim,Patrick Mainka,GER,30-194,34,3060,30,63.6,61,25,68.0
+GER-Bundesliga,Heidenheim,Tim Siersleben,GER,25-071,16,1182,14,41.2,19,13,20.0
+GER-Bundesliga,Hoffenheim,Alexander Prass,AUT,23-358,23,1566,23,40.7,33,27,9.0
+GER-Bundesliga,Hoffenheim,Arthur Chaves,BRA,24-110,26,2185,36,50.0,47,27,37.0
+GER-Bundesliga,Hoffenheim,David Jurásek,CZE,24-285,14,619,3,40.0,5,5,6.0
+GER-Bundesliga,Hoffenheim,Kevin Akpoguma,NGA,30-030,32,2220,27,65.2,65,28,29.0
+GER-Bundesliga,Hoffenheim,Leo Skiri Østigård,NOR,25-172,16,1227,7,66.7,17,8,9.0
+GER-Bundesliga,Hoffenheim,Leo Skiri Østigård,NOR,25-172,11,927,7,66.7,17,8,9.0
+GER-Bundesliga,Hoffenheim,Pavel Kadeřábek,CZE,33-024,24,1576,14,48.4,13,10,20.0
+GER-Bundesliga,Hoffenheim,Robin Hranáč,CZE,25-110,4,219,0,0.0,3,1,5.0
+GER-Bundesliga,Hoffenheim,Stanley N'Soki,FRA,26-040,22,1308,16,52.2,22,15,26.0
+GER-Bundesliga,Hoffenheim,Tim Drexler,GER,20-074,8,357,7,75.0,6,2,1.0
+GER-Bundesliga,Hoffenheim,Valentin Gendrey,FRA,24-332,22,1414,12,61.1,19,14,15.0
+GER-Bundesliga,Hoffenheim,Valentin Gendrey,FRA,24-332,2,180,12,61.1,19,14,15.0
+GER-Bundesliga,Holstein Kiel,Carl Johansson,SWE,30-361,10,568,2,42.9,12,4,10.0
+GER-Bundesliga,Holstein Kiel,David Zec,SVN,25-134,18,1541,10,65.0,32,14,17.0
+GER-Bundesliga,Holstein Kiel,Ivan Nekić,CRO,24-146,1,71,1,50.0,1,1,3.0
+GER-Bundesliga,Holstein Kiel,Lasse Rosenboom,GER,23-120,26,1734,35,68.1,28,19,19.0
+GER-Bundesliga,Holstein Kiel,Marco Komenda,CRO,28-174,19,1307,17,73.3,23,12,6.0
+GER-Bundesliga,Holstein Kiel,Marko Ivezić,SRB,23-168,23,1657,19,35.7,25,12,27.0
+GER-Bundesliga,Holstein Kiel,Max Geschwill,GER,23-316,19,1282,21,73.7,14,5,30.0
+GER-Bundesliga,Holstein Kiel,Patrick Erras,GER,30-118,10,832,5,22.2,13,2,9.0
+GER-Bundesliga,Holstein Kiel,Timo Becker,GER,28-055,30,2445,33,73.9,30,13,17.0
+GER-Bundesliga,Holstein Kiel,Tymoteusz Puchacz,POL,26-116,10,396,4,71.4,4,3,3.0
+GER-Bundesliga,Leverkusen,Arthur,BRA,22-063,20,752,11,50.0,8,8,9.0
+GER-Bundesliga,Leverkusen,Edmond Tapsoba,BFA,26-106,29,2507,24,56.4,21,7,24.0
+GER-Bundesliga,Leverkusen,Jonathan Tah,GER,29-097,33,2970,12,62.5,22,6,36.0
+GER-Bundesliga,Leverkusen,Nordi Mukiele,FRA,27-199,15,899,16,66.7,10,10,16.0
+GER-Bundesliga,Leverkusen,Piero Hincapié,ECU,23-130,32,2670,40,61.0,40,20,32.0
+GER-Bundesliga,Leverkusen,Álex Grimaldo,ESP,29-241,32,2636,14,38.1,22,19,16.0
+GER-Bundesliga,Mainz 05,Andreas Hanche-Olsen,NOR,28-122,22,1284,13,75.0,25,7,12.0
+GER-Bundesliga,Mainz 05,Anthony Caci,FRA,27-322,33,2684,40,63.6,33,25,27.0
+GER-Bundesliga,Mainz 05,Danny da Costa,GER,31-310,25,2006,23,63.0,19,9,27.0
+GER-Bundesliga,Mainz 05,Maxim Leitsch,GER,27-001,14,674,4,77.8,12,8,10.0
+GER-Bundesliga,Mainz 05,Moritz Jenz,GER,26-019,19,1600,20,76.2,23,9,30.0
+GER-Bundesliga,Mainz 05,Phillipp Mwene,AUT,31-110,32,2607,29,41.3,27,21,24.0
+GER-Bundesliga,Mainz 05,Silvan Widmer,SUI,32-075,27,504,5,66.7,7,6,5.0
+GER-Bundesliga,Mainz 05,Stefan Bell,GER,33-268,18,1436,12,64.3,16,2,28.0
+GER-Bundesliga,RB Leipzig,Benjamin Henrichs,GER,28-085,15,935,16,51.9,22,19,15.0
+GER-Bundesliga,RB Leipzig,Castello Lukeba,FRA,22-153,23,1577,17,70.8,29,17,17.0
+GER-Bundesliga,RB Leipzig,David Raum,GER,27-027,22,1783,28,57.1,25,17,9.0
+GER-Bundesliga,RB Leipzig,El Chadaille Bitshiabu,FRA,20-003,21,1130,18,52.6,25,11,13.0
+GER-Bundesliga,RB Leipzig,Kosta Nedeljković,SRB,19-154,5,126,8,60.0,6,2,2.0
+GER-Bundesliga,RB Leipzig,Kosta Nedeljković,SRB,19-154,10,479,8,60.0,6,2,2.0
+GER-Bundesliga,RB Leipzig,Lukas Klostermann,GER,28-350,28,1838,14,58.3,31,14,24.0
+GER-Bundesliga,RB Leipzig,Lutsharel Geertruida,NED,24-305,24,1557,24,48.4,15,11,16.0
+GER-Bundesliga,RB Leipzig,Willi Orban,HUN,32-197,25,2222,21,71.9,45,14,21.0
+GER-Bundesliga,St. Pauli,David Nemeth,AUT,24-062,24,2137,29,58.1,29,18,18.0
+GER-Bundesliga,St. Pauli,Hauke Wahl,GER,31-034,33,2970,27,60.5,44,19,31.0
+GER-Bundesliga,St. Pauli,Karol Mets,EST,32-003,10,900,8,57.1,9,6,12.0
+GER-Bundesliga,Stuttgart,Ameen Al-Dakhil,BEL,23-074,7,432,6,100.0,12,4,9.0
+GER-Bundesliga,Stuttgart,Anrie Chase,JPN,21-056,12,734,4,71.4,10,4,9.0
+GER-Bundesliga,Stuttgart,Anthony Rouault,FRA,23-355,11,972,11,66.7,18,9,19.0
+GER-Bundesliga,Stuttgart,Anthony Rouault,FRA,23-355,18,1212,11,66.7,18,9,19.0
+GER-Bundesliga,Stuttgart,Finn Jeltsch,GER,18-306,12,780,13,80.0,12,6,13.0
+GER-Bundesliga,Stuttgart,Frans Krätzig,GER,22-125,16,1217,1,33.3,2,1,0.0
+GER-Bundesliga,Stuttgart,Frans Krätzig,GER,22-125,1,56,1,33.3,2,1,0.0
+GER-Bundesliga,Stuttgart,Julian Chabot,GER,27-096,31,2269,24,46.9,29,10,38.0
+GER-Bundesliga,Stuttgart,Leonidas Stergiou,SUI,23-077,12,852,13,84.2,16,11,14.0
+GER-Bundesliga,Stuttgart,Luca Jaquez,SUI,21-351,5,253,0,33.3,2,2,3.0
+GER-Bundesliga,Stuttgart,Maximilian Mittelstädt,GER,28-062,31,2469,54,72.6,47,36,47.0
+GER-Bundesliga,Stuttgart,Pascal Stenzel,GER,29-060,10,290,2,40.0,5,4,2.0
+GER-Bundesliga,Stuttgart,Ramon Hendriks,NED,23-305,25,1154,9,69.2,15,8,19.0
+GER-Bundesliga,Union Berlin,Danilho Doekhi,NED,26-323,34,3060,24,56.5,35,19,44.0
+GER-Bundesliga,Union Berlin,Diogo Leite,POR,26-116,30,2546,32,66.0,61,36,57.0
+GER-Bundesliga,Union Berlin,Kevin Vogt,GER,33-238,18,1367,8,61.5,16,8,9.0
+GER-Bundesliga,Union Berlin,Leopold Querfeld,AUT,21-150,27,1747,12,72.2,25,15,19.0
+GER-Bundesliga,Union Berlin,Robin Gosens,GER,30-318,1,90,0,0.0,1,1,1.0
+GER-Bundesliga,Union Berlin,Robin Gosens,GER,30-318,31,2431,0,0.0,1,1,1.0
+GER-Bundesliga,Werder Bremen,Amos Pieper,GER,27-122,23,1498,17,63.6,28,11,24.0
+GER-Bundesliga,Werder Bremen,Anthony Jung,GER,33-197,28,1898,22,64.7,23,9,25.0
+GER-Bundesliga,Werder Bremen,Felix Agu,GER,25-234,22,1751,14,52.2,27,18,21.0
+GER-Bundesliga,Werder Bremen,Julián Malatini,ARG,23-353,10,454,9,45.5,8,5,7.0
+GER-Bundesliga,Werder Bremen,Marco Friedl,AUT,27-064,26,2161,42,57.6,41,17,34.0
+GER-Bundesliga,Werder Bremen,Miloš Veljković,SRB,29-235,14,1029,5,46.7,14,5,2.0
+GER-Bundesliga,Werder Bremen,Niklas Stark,GER,30-035,26,2106,21,66.7,41,14,36.0
+GER-Bundesliga,Werder Bremen,Olivier Deman,BEL,25-043,9,67,3,28.6,3,2,3.0
+GER-Bundesliga,Wolfsburg,Cedric Zesiger,SUI,26-329,15,1221,8,50.0,6,1,3.0
+GER-Bundesliga,Wolfsburg,Cedric Zesiger,SUI,26-329,7,522,8,50.0,6,1,3.0
+GER-Bundesliga,Wolfsburg,David Odogu,GER,18-350,3,195,4,60.0,2,0,2.0
+GER-Bundesliga,Wolfsburg,Denis Vavro,SVK,29-039,29,2461,13,47.8,48,16,37.0
+GER-Bundesliga,Wolfsburg,Joakim Mæhle,DEN,27-364,28,2188,15,37.8,24,21,25.0
+GER-Bundesliga,Wolfsburg,Kevin Paredes,USA,22-012,2,123,1,66.7,2,0,1.0
+GER-Bundesliga,Wolfsburg,Kilian Fischer,GER,24-219,32,2297,44,52.8,41,33,19.0
+GER-Bundesliga,Wolfsburg,Konstantinos Koulierakis,GRE,21-172,30,2468,20,62.5,34,20,33.0
+GER-Bundesliga,Wolfsburg,Mads Roerslev,DEN,25-329,19,1101,9,66.7,2,0,5.0
+GER-Bundesliga,Wolfsburg,Mads Roerslev,DEN,25-329,7,298,9,66.7,2,0,5.0
+GER-Bundesliga,Wolfsburg,Sebastiaan Bornauw,BEL,26-058,15,788,6,50.0,14,2,12.0
+ITA-Serie A,Atalanta,Ben Godfrey,ENG,27-124,3,159,0,0.0,1,0,0.0
+ITA-Serie A,Atalanta,Ben Godfrey,ENG,27-124,1,23,0,0.0,1,0,0.0
+ITA-Serie A,Atalanta,Berat Djimsiti,ALB,32-089,33,2550,31,71.8,33,13,40.0
+ITA-Serie A,Atalanta,Davide Zappacosta,ITA,32-342,30,2067,16,51.3,28,22,11.0
+ITA-Serie A,Atalanta,Giorgio Scalvini,ITA,21-159,6,272,4,55.6,0,0,4.0
+ITA-Serie A,Atalanta,Isak Hien,SWE,26-126,30,2327,28,61.4,31,13,31.0
+ITA-Serie A,Atalanta,Marco Palestra,ITA,20-077,8,177,4,100.0,3,3,2.0
+ITA-Serie A,Atalanta,Matteo Ruggeri,ITA,22-312,29,1661,24,67.6,28,25,19.0
+ITA-Serie A,Atalanta,Odilon Kossounou,CIV,24-135,17,1035,9,45.5,14,9,12.0
+ITA-Serie A,Atalanta,Rafael Tolói,ITA,34-221,11,468,5,36.4,8,6,8.0
+ITA-Serie A,Atalanta,Raoul Bellanova,ITA,25-002,33,2331,13,60.0,12,9,18.0
+ITA-Serie A,Atalanta,Raoul Bellanova,ITA,25-002,1,87,13,60.0,12,9,18.0
+ITA-Serie A,Atalanta,Sead Kolašinac,BIH,31-333,23,1903,26,53.3,16,9,25.0
+ITA-Serie A,Atalanta,Stefan Posch,AUT,28-005,4,342,10,87.5,5,4,4.0
+ITA-Serie A,Atalanta,Stefan Posch,AUT,28-005,14,714,10,87.5,5,4,4.0
+ITA-Serie A,Bologna,Charalambos Lykogiannis,GRE,31-209,16,974,12,50.0,9,4,10.0
+ITA-Serie A,Bologna,Davide Calabria,ITA,28-164,10,616,8,41.7,4,4,2.0
+ITA-Serie A,Bologna,Davide Calabria,ITA,28-164,7,316,8,41.7,4,4,2.0
+ITA-Serie A,Bologna,Emil Holm,SWE,25-006,20,1092,21,66.7,19,15,10.0
+ITA-Serie A,Bologna,Jhon Lucumí,COL,26-327,31,2524,29,70.0,32,18,25.0
+ITA-Serie A,Bologna,Juan Miranda,ESP,25-120,31,2277,18,42.4,21,18,23.0
+ITA-Serie A,Bologna,Lorenzo De Silvestri,ITA,36-361,17,1015,6,43.8,12,8,10.0
+ITA-Serie A,Bologna,Martin Erlic,CRO,27-115,8,334,0,50.0,5,1,2.0
+ITA-Serie A,Bologna,Nicolò Casale,ITA,27-094,14,810,4,50.0,14,7,14.0
+ITA-Serie A,Bologna,Nicolò Casale,ITA,27-094,2,135,4,50.0,14,7,14.0
+ITA-Serie A,Bologna,Sam Beukema,NED,26-183,35,3012,29,53.7,36,15,30.0
+ITA-Serie A,Bologna,Stefan Posch,AUT,28-005,4,342,15,60.0,19,15,5.0
+ITA-Serie A,Bologna,Stefan Posch,AUT,28-005,14,714,15,60.0,19,15,5.0
+ITA-Serie A,Cagliari,Adam Obert,SVK,22-269,20,1060,17,57.7,19,12,23.0
+ITA-Serie A,Cagliari,Gabriele Zappa,ITA,25-148,36,2970,22,53.1,41,20,23.0
+ITA-Serie A,Cagliari,José Luis Palomino,ARG,35-134,17,1047,15,75.0,20,10,22.0
+ITA-Serie A,Cagliari,Mateusz Wieteska,POL,28-097,5,184,0,100.0,3,1,7.0
+ITA-Serie A,Cagliari,Paulo Azzi,BRA,30-308,6,426,9,55.6,5,3,5.0
+ITA-Serie A,Cagliari,Sebastiano Luperto,ITA,28-255,35,3150,25,63.0,27,14,33.0
+ITA-Serie A,Cagliari,Tommaso Augello,ITA,30-262,37,2640,28,71.4,23,15,16.0
+ITA-Serie A,Cagliari,Yerry Mina,COL,30-238,30,2479,29,78.0,56,24,36.0
+ITA-Serie A,Como,Alberto Dossena,ITA,26-218,23,1825,20,57.1,22,11,22.0
+ITA-Serie A,Como,Alberto Moreno,ESP,32-318,24,1727,11,46.2,12,9,14.0
+ITA-Serie A,Como,Edoardo Goldaniga,ITA,31-198,32,2532,21,72.2,21,11,32.0
+ITA-Serie A,Como,Federico Barba,ITA,31-260,7,431,2,25.0,2,0,4.0
+ITA-Serie A,Como,Fellipe Jack,BRA,19-127,7,171,4,60.0,2,0,4.0
+ITA-Serie A,Como,Ignace Van Der Brempt,BEL,23-048,19,1177,31,71.9,12,7,16.0
+ITA-Serie A,Como,Ivan Smolčić,CRO,24-275,8,540,9,75.0,8,6,10.0
+ITA-Serie A,Como,Marc-Oliver Kempf,GER,30-111,31,2615,20,54.2,34,9,33.0
+ITA-Serie A,Como,Marco Sala,ITA,25-349,8,261,6,62.5,2,2,1.0
+ITA-Serie A,Como,Marco Sala,ITA,25-349,2,72,6,62.5,2,2,1.0
+ITA-Serie A,Como,Mërgim Vojvoda,KVX,30-107,10,627,5,75.0,6,2,3.0
+ITA-Serie A,Como,Mërgim Vojvoda,KVX,30-107,17,1105,5,75.0,6,2,3.0
+ITA-Serie A,Como,Álex Valle,ESP,21-024,14,940,12,73.7,12,10,7.0
+ITA-Serie A,Empoli,Ardian Ismajli,ALB,28-231,28,2418,22,82.4,33,10,55.0
+ITA-Serie A,Empoli,Luca Marianucci,ITA,20-300,18,1069,12,57.9,16,8,19.0
+ITA-Serie A,Empoli,Mattia De Sciglio,ITA,32-211,16,769,13,82.4,10,7,8.0
+ITA-Serie A,Empoli,Mattia Viti,ITA,23-115,29,2482,45,66.7,40,22,48.0
+ITA-Serie A,Empoli,Saba Goglichidze,GEO,20-328,32,2458,37,50.0,35,19,33.0
+ITA-Serie A,Empoli,Sebastian Walukiewicz,POL,25-044,2,180,0,0.0,3,0,1.0
+ITA-Serie A,Empoli,Sebastian Walukiewicz,POL,25-044,28,1642,0,0.0,3,0,1.0
+ITA-Serie A,Fiorentina,Cristiano Biraghi,ITA,32-260,8,433,4,28.6,2,2,4.0
+ITA-Serie A,Fiorentina,Cristiano Biraghi,ITA,32-260,14,1068,4,28.6,2,2,4.0
+ITA-Serie A,Fiorentina,Dodô,BRA,26-183,34,3025,30,52.1,22,17,35.0
+ITA-Serie A,Fiorentina,Luca Ranieri,ITA,26-026,35,2981,22,81.8,45,14,28.0
+ITA-Serie A,Fiorentina,Lucas Martínez Quarta,ARG,29-009,8,351,7,61.5,5,3,3.0
+ITA-Serie A,Fiorentina,Marin Pongračić,CRO,27-250,19,1355,13,63.6,14,8,12.0
+ITA-Serie A,Fiorentina,Matias Moreno,ARG,21-237,4,144,8,100.0,5,4,1.0
+ITA-Serie A,Fiorentina,Pablo Marí,ESP,31-261,12,1008,9,54.5,16,5,21.0
+ITA-Serie A,Fiorentina,Pablo Marí,ESP,31-261,19,1628,9,54.5,16,5,21.0
+ITA-Serie A,Fiorentina,Pietro Comuzzo,ITA,20-088,32,2122,21,78.6,34,13,28.0
+ITA-Serie A,Fiorentina,Robin Gosens,GER,30-318,1,90,32,58.1,31,21,18.0
+ITA-Serie A,Fiorentina,Robin Gosens,GER,30-318,31,2431,32,58.1,31,21,18.0
+ITA-Serie A,Genoa,Aarón Martín,ESP,28-027,35,2995,46,64.0,32,22,19.0
+ITA-Serie A,Genoa,Alan Matturro,URU,20-220,13,900,6,21.4,10,7,14.0
+ITA-Serie A,Genoa,Alessandro Vogliacco,ITA,26-247,12,715,3,83.3,11,4,9.0
+ITA-Serie A,Genoa,Alessandro Vogliacco,ITA,26-247,10,772,3,83.3,11,4,9.0
+ITA-Serie A,Genoa,Johan Vásquez,MEX,26-209,36,3041,31,59.1,59,28,50.0
+ITA-Serie A,Genoa,Koni De Winter,BEL,22-341,24,2045,19,70.8,10,4,23.0
+ITA-Serie A,Genoa,Mattia Bani,ITA,31-160,19,1445,9,63.6,13,5,20.0
+ITA-Serie A,Genoa,Sebastian Otoa,DEN,21-006,2,89,0,0.0,0,0,1.0
+ITA-Serie A,Genoa,Stefano Sabelli,ITA,32-126,33,2030,31,37.3,28,21,22.0
+ITA-Serie A,Hellas Verona,Daniel Oyegoke,ENG,22-136,5,103,2,100.0,1,1,1.0
+ITA-Serie A,Hellas Verona,Daniele Ghilardi,ITA,22-133,23,1939,25,60.0,27,13,28.0
+ITA-Serie A,Hellas Verona,Davide Faraoni,ITA,33-206,8,260,9,33.3,7,4,2.0
+ITA-Serie A,Hellas Verona,Diego Coppola,ITA,21-142,33,2837,35,69.2,42,18,71.0
+ITA-Serie A,Hellas Verona,Domagoj Bradarić,CRO,25-160,27,1852,27,64.3,17,13,15.0
+ITA-Serie A,Hellas Verona,Flavius Daniliuc,AUT,24-022,18,1004,21,62.5,10,7,7.0
+ITA-Serie A,Hellas Verona,Giangiacomo Magnani,ITA,29-227,17,1065,15,100.0,16,7,17.0
+ITA-Serie A,Hellas Verona,Martin Frese,DEN,27-135,10,540,10,54.5,5,4,8.0
+ITA-Serie A,Hellas Verona,Nicolás Valentini,ARG,24-043,13,1039,22,70.4,12,6,13.0
+ITA-Serie A,Inter,Alessandro Bastoni,ITA,26-036,33,2401,24,66.7,25,12,22.0
+ITA-Serie A,Inter,Benjamin Pavard,FRA,29-052,23,1584,16,72.0,16,4,16.0
+ITA-Serie A,Inter,Carlos Augusto,BRA,26-132,28,1601,13,66.7,21,12,8.0
+ITA-Serie A,Inter,Francesco Acerbi,ITA,37-098,22,1679,19,64.7,22,6,26.0
+ITA-Serie A,Inter,Matteo Darmian,ITA,35-168,28,1691,16,54.2,13,8,10.0
+ITA-Serie A,Inter,Stefan de Vrij,NED,33-103,25,1636,11,75.0,19,8,21.0
+ITA-Serie A,Inter,Yann Aurel Bisseck,GER,24-171,26,1584,12,68.8,19,10,17.0
+ITA-Serie A,Juventus,Alberto costa,POR,21-232,8,312,9,75.0,5,4,4.0
+ITA-Serie A,Juventus,Danilo,BRA,33-308,8,275,4,50.0,4,1,9.0
+ITA-Serie A,Juventus,Danilo,BRA,33-308,12,581,4,50.0,4,1,9.0
+ITA-Serie A,Juventus,Federico Gatti,ITA,26-329,29,2190,23,58.3,27,9,18.0
+ITA-Serie A,Juventus,Gleison Bremer,BRA,28-062,6,540,7,80.0,15,4,6.0
+ITA-Serie A,Juventus,Jonas Rouhi,SWE,21-132,5,210,1,0.0,2,2,3.0
+ITA-Serie A,Juventus,Juan David Cabal,COL,24-131,7,460,4,66.7,2,2,2.0
+ITA-Serie A,Juventus,Lloyd Kelly,ENG,26-225,10,303,8,77.8,10,4,2.0
+ITA-Serie A,Juventus,Lloyd Kelly,ENG,26-225,11,923,8,77.8,10,4,2.0
+ITA-Serie A,Juventus,Nicolò Savona,ITA,22-061,27,1634,13,54.2,10,8,10.0
+ITA-Serie A,Juventus,Pierre Kalulu,FRA,24-348,29,2337,25,75.0,27,12,17.0
+ITA-Serie A,Juventus,Renato Veiga,POR,21-294,7,181,12,64.3,16,3,17.0
+ITA-Serie A,Juventus,Renato Veiga,POR,21-294,12,1048,12,64.3,16,3,17.0
+ITA-Serie A,Lazio,Adam Marušić,MNE,32-214,34,2292,19,58.6,18,10,16.0
+ITA-Serie A,Lazio,Alessio Romagnoli,ITA,30-127,31,2583,29,81.5,32,16,25.0
+ITA-Serie A,Lazio,Elseid Hysaj,ALB,31-088,10,379,6,100.0,3,1,5.0
+ITA-Serie A,Lazio,Luca Pellegrini,ITA,26-073,21,1049,11,51.6,10,7,19.0
+ITA-Serie A,Lazio,Manuel Lazzari,ITA,31-171,25,1406,16,58.3,9,4,10.0
+ITA-Serie A,Lazio,Mario Gila,ESP,24-263,31,2651,36,67.9,19,6,28.0
+ITA-Serie A,Lazio,Nuno Tavares,POR,25-113,22,1614,21,42.4,20,17,20.0
+ITA-Serie A,Lazio,Patric,ESP,32-032,10,607,6,60.0,3,1,3.0
+ITA-Serie A,Lazio,Samuel Gigot,FRA,31-219,15,683,3,0.0,8,2,13.0
+ITA-Serie A,Lecce,Andy Pelmard,FRA,25-068,4,205,6,100.0,1,1,0.0
+ITA-Serie A,Lecce,Andy Pelmard,FRA,25-068,3,129,6,100.0,1,1,0.0
+ITA-Serie A,Lecce,Antonino Gallo,ITA,25-134,30,2519,41,54.1,31,27,20.0
+ITA-Serie A,Lecce,Danilo Veiga,POR,22-236,12,356,6,50.0,5,5,4.0
+ITA-Serie A,Lecce,Federico Baschirotto,ITA,28-241,37,3330,25,78.6,44,12,23.0
+ITA-Serie A,Lecce,Frederic Guilbert,FRA,30-146,30,2345,35,64.8,27,19,46.0
+ITA-Serie A,Lecce,Gaby Jean,FRA,25-089,19,1388,7,54.5,13,3,9.0
+ITA-Serie A,Lecce,Kevin Bonifazi,ITA,29-000,3,65,1,100.0,1,0,2.0
+ITA-Serie A,Lecce,Kialonda,ANG,27-234,23,2054,12,70.6,43,16,30.0
+ITA-Serie A,Lecce,Marco Sala,ITA,25-349,8,261,0,0.0,1,1,0.0
+ITA-Serie A,Lecce,Marco Sala,ITA,25-349,2,72,0,0.0,1,1,0.0
+ITA-Serie A,Lecce,Valentin Gendrey,FRA,24-332,22,1414,2,100.0,3,2,2.0
+ITA-Serie A,Lecce,Valentin Gendrey,FRA,24-332,2,180,2,100.0,3,2,2.0
+ITA-Serie A,Milan,Davide Calabria,ITA,28-164,10,616,7,57.1,1,1,8.0
+ITA-Serie A,Milan,Davide Calabria,ITA,28-164,7,316,7,57.1,1,1,8.0
+ITA-Serie A,Milan,Emerson,BRA,26-125,17,1377,28,47.1,13,11,14.0
+ITA-Serie A,Milan,Fikayo Tomori,ENG,27-151,21,1503,23,65.2,16,4,19.0
+ITA-Serie A,Milan,Kyle Walker,ENG,34-356,15,970,9,76.5,9,4,9.0
+ITA-Serie A,Milan,Kyle Walker,ENG,34-356,11,659,9,76.5,9,4,9.0
+ITA-Serie A,Milan,Malick Thiaw,GER,23-284,22,1806,17,60.0,14,2,15.0
+ITA-Serie A,Milan,Matteo Gabbia,ITA,25-210,25,2062,15,80.0,24,5,13.0
+ITA-Serie A,Milan,Strahinja Pavlović,SRB,23-360,23,1774,31,58.0,15,9,16.0
+ITA-Serie A,Milan,Theo Hernández,FRA,27-225,33,2696,28,53.8,25,15,17.0
+ITA-Serie A,Monza,Andrea Carboni,ITA,24-104,25,2101,32,64.0,30,14,27.0
+ITA-Serie A,Monza,Armando Izzo,ITA,33-078,29,2424,15,50.0,38,10,45.0
+ITA-Serie A,Monza,Arvid Brorsson,SWE,26-011,6,362,3,40.0,9,1,2.0
+ITA-Serie A,Monza,Danilo D'Ambrosio,ITA,36-252,20,1095,15,60.9,12,4,15.0
+ITA-Serie A,Monza,Giorgos Kyriakopoulos,GRE,29-103,33,2755,26,49.2,28,18,23.0
+ITA-Serie A,Monza,Luca Caldirola,ITA,34-107,13,797,7,57.1,8,2,11.0
+ITA-Serie A,Monza,Pablo Marí,ESP,31-261,12,1008,15,52.4,24,3,37.0
+ITA-Serie A,Monza,Pablo Marí,ESP,31-261,19,1628,15,52.4,24,3,37.0
+ITA-Serie A,Monza,Pedro Pereira,POR,27-117,34,2575,32,63.6,25,14,18.0
+ITA-Serie A,Monza,Samuele Birindelli,ITA,25-304,20,1378,14,46.2,14,12,9.0
+ITA-Serie A,Monza,Stefan Lekovic,SRB,21-130,7,367,4,38.5,4,0,7.0
+ITA-Serie A,Monza,Tomás Palacios,ARG,22-021,2,11,5,69.2,7,5,8.0
+ITA-Serie A,Monza,Tomás Palacios,ARG,22-021,8,446,5,69.2,7,5,8.0
+ITA-Serie A,Napoli,Alessandro Buongiorno,ITA,25-347,22,1924,23,75.0,30,12,35.0
+ITA-Serie A,Napoli,Amir Rrahmani,KVX,31-084,37,3316,30,62.5,43,17,27.0
+ITA-Serie A,Napoli,Giovanni Di Lorenzo,ITA,31-288,36,3240,44,64.6,19,13,31.0
+ITA-Serie A,Napoli,Juan Jesus,BRA,33-343,15,1074,14,60.0,15,12,9.0
+ITA-Serie A,Napoli,Mathías Olivera,URU,27-200,31,2280,33,59.6,34,24,28.0
+ITA-Serie A,Napoli,Rafa Marín,ESP,23-000,4,142,0,50.0,1,0,1.0
+ITA-Serie A,Parma,Alessandro Circati,AUS,21-221,5,450,3,100.0,5,1,2.0
+ITA-Serie A,Parma,Alessandro Vogliacco,ITA,26-247,12,715,2,60.0,15,5,3.0
+ITA-Serie A,Parma,Alessandro Vogliacco,ITA,26-247,10,772,2,60.0,15,5,3.0
+ITA-Serie A,Parma,Botond Balogh,HUN,22-347,28,1963,13,73.9,32,8,25.0
+ITA-Serie A,Parma,Emanuele Valeri,ITA,26-163,34,2828,31,50.0,31,21,28.0
+ITA-Serie A,Parma,Enrico Del Prato,ITA,25-190,33,2857,17,73.1,68,34,19.0
+ITA-Serie A,Parma,Giovanni Leoni,ITA,18-149,17,1199,6,50.0,20,9,15.0
+ITA-Serie A,Parma,Lautaro Valenti,ARG,26-125,19,1466,12,100.0,24,12,11.0
+ITA-Serie A,Parma,Woyo Coulibaly,FRA,25-364,4,109,10,45.5,19,17,8.0
+ITA-Serie A,Parma,Woyo Coulibaly,FRA,25-364,14,1084,10,45.5,19,17,8.0
+ITA-Serie A,Parma,Yordan Osorio,VEN,31-009,3,172,3,100.0,3,2,4.0
+ITA-Serie A,Roma,Angeliño,ESP,28-135,37,3087,24,50.0,33,24,27.0
+ITA-Serie A,Roma,Devyne Rensch,NED,22-121,13,468,13,90.0,5,2,7.0
+ITA-Serie A,Roma,Gianluca Mancini,ITA,29-032,36,3053,26,58.8,22,6,35.0
+ITA-Serie A,Roma,Mario Hermoso,ESP,29-335,4,293,1,0.0,1,0,4.0
+ITA-Serie A,Roma,Mario Hermoso,ESP,29-335,8,251,1,0.0,1,0,4.0
+ITA-Serie A,Roma,Mats Hummels,GER,36-154,13,914,15,61.1,12,8,26.0
+ITA-Serie A,Roma,Obite N'Dicka,CIV,25-272,37,3330,26,66.7,44,16,33.0
+ITA-Serie A,Roma,Saud Abdulhamid,KSA,25-305,4,205,2,100.0,2,2,2.0
+ITA-Serie A,Roma,Victor Nelsson,DEN,26-217,4,187,4,60.0,1,1,2.0
+ITA-Serie A,Roma,Zeki Çelik,TUR,28-091,30,2167,36,54.8,26,18,15.0
+ITA-Serie A,Torino,Adam Masina,MAR,31-137,27,1848,15,59.0,27,12,26.0
+ITA-Serie A,Torino,Ali Dembélé,FRA,21-134,14,330,5,100.0,5,4,0.0
+ITA-Serie A,Torino,Borna Sosa,CRO,27-118,19,1181,19,64.0,13,7,14.0
+ITA-Serie A,Torino,Cristiano Biraghi,ITA,32-260,8,433,10,56.3,15,11,8.0
+ITA-Serie A,Torino,Cristiano Biraghi,ITA,32-260,14,1068,10,56.3,15,11,8.0
+ITA-Serie A,Torino,Guillermo Maripán,CHI,31-013,27,2250,22,62.5,26,14,40.0
+ITA-Serie A,Torino,Marcus Pedersen,NOR,24-307,29,1362,8,62.5,11,9,13.0
+ITA-Serie A,Torino,Mërgim Vojvoda,KVX,30-107,10,627,10,50.0,13,10,7.0
+ITA-Serie A,Torino,Mërgim Vojvoda,KVX,30-107,17,1105,10,50.0,13,10,7.0
+ITA-Serie A,Torino,Raoul Bellanova,ITA,25-002,33,2331,0,0.0,0,0,0.0
+ITA-Serie A,Torino,Raoul Bellanova,ITA,25-002,1,87,0,0.0,0,0,0.0
+ITA-Serie A,Torino,Saúl Coco,EQG,26-099,32,2845,26,63.3,49,18,38.0
+ITA-Serie A,Torino,Sebastian Walukiewicz,POL,25-044,2,180,20,74.2,21,13,18.0
+ITA-Serie A,Torino,Sebastian Walukiewicz,POL,25-044,28,1642,20,74.2,21,13,18.0
+ITA-Serie A,Udinese,Christian Kabasele,BEL,34-084,15,1071,9,83.3,11,6,12.0
+ITA-Serie A,Udinese,Enzo Ebosse,CMR,26-069,2,90,0,0.0,3,0,1.0
+ITA-Serie A,Udinese,Hassane Kamara,CIV,31-075,30,2001,25,57.1,23,18,26.0
+ITA-Serie A,Udinese,Jaka Bijol,SVN,26-103,33,2925,25,53.8,37,19,38.0
+ITA-Serie A,Udinese,Jordan Zemura,ZIM,25-186,22,1325,13,57.7,16,13,15.0
+ITA-Serie A,Udinese,Kingsley Ehizibue,NED,29-359,32,2413,35,61.0,38,27,23.0
+ITA-Serie A,Udinese,Lautaro Gianetti,ARG,31-187,15,878,10,70.0,20,10,15.0
+ITA-Serie A,Udinese,Nehuén Pérez,ARG,24-329,2,180,1,0.0,2,0,1.0
+ITA-Serie A,Udinese,Oumar Solet,FRA,25-101,18,1582,19,70.0,31,13,17.0
+ITA-Serie A,Udinese,Souleymane Touré,FRA,22-052,12,733,6,80.0,15,9,9.0
+ITA-Serie A,Udinese,Thomas Kristensen,DEN,23-122,24,1754,21,62.5,18,5,21.0
+ITA-Serie A,Venezia,Alessandro Marcandalli,ITA,22-236,2,46,5,40.0,6,3,2.0
+ITA-Serie A,Venezia,Alessandro Marcandalli,ITA,22-236,7,340,5,40.0,6,3,2.0
+ITA-Serie A,Venezia,Alessio Zerbin,ITA,26-077,2,2,28,55.1,27,24,15.0
+ITA-Serie A,Venezia,Alessio Zerbin,ITA,26-077,17,1428,28,55.1,27,24,15.0
+ITA-Serie A,Venezia,Antonio Candela,ITA,25-022,11,861,21,69.2,7,2,8.0
+ITA-Serie A,Venezia,Antonio Candela,ITA,25-022,14,1008,21,69.2,7,2,8.0
+ITA-Serie A,Venezia,Fali Candé,GNB,27-115,16,1440,19,69.6,20,6,14.0
+ITA-Serie A,Venezia,Francesco Zampano,ITA,31-231,24,1639,20,45.2,21,20,6.0
+ITA-Serie A,Venezia,Franco Carboni,ITA,22-045,8,226,3,62.5,1,0,0.0
+ITA-Serie A,Venezia,Giorgio Altare,ITA,26-283,12,753,12,53.3,21,10,17.0
+ITA-Serie A,Venezia,Jay Idzes,IDN,24-351,35,3127,29,51.5,52,20,32.0
+ITA-Serie A,Venezia,Joël Schingtienne,BEL,22-280,15,1032,13,62.5,16,9,13.0
+ITA-Serie A,Venezia,Marin Šverko,CRO,27-104,15,1041,6,80.0,9,5,16.0
+ITA-Serie A,Venezia,Michael Svoboda,AUT,26-216,16,1314,14,42.1,19,8,22.0
+ITA-Serie A,Venezia,Richie Sagrado,BEL,21-109,3,140,2,100.0,1,1,3.0
+ITA-Serie A,Venezia,Ridgeciano Haps,SUR,31-341,24,1302,15,65.0,17,14,7.0
